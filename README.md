@@ -14,7 +14,7 @@
 
 ## I'm a young Product Manager and a Product enthusiast. 
 
-- 💻 Associate Product Manager
+- 💻 Product Manager
 - 💼 Field Nation, LLC
 - 📕 Computer Science and Engineering (CSE)
 - 🏫 North South University (NSU)
