@@ -7,7 +7,7 @@
   [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discordapp.com/users/257896257740079105)
   [<img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/>](https://www.snapchat.com/add/requiem.ofsouls/)
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:tashfiq61@gmail.com)
-  [<img src="//img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>]https://www.reddit.com/user/DeadShotss/)
+  [<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>]https://www.reddit.com/user/DeadShotss/)
 
 </div>
 
