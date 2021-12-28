@@ -20,3 +20,6 @@
 - 📕 Computer Science and Engineering (CSE)
 - 🏫 North South University (NSU)
 - 📍 From Dhaka, Bangladesh
+
+
+![](https://komarev.com/ghpvc/?username=tashfiqul-islam&style=flat-square)
