@@ -24,7 +24,6 @@ I'm a young Product Manager and a Product enthusiast with a passion for understa
 - 💼 **Current Role**: Product Manager at Field Nation, LLC
 - 📚 **Education**: Studying Computer Science and Engineering (CSE) at North South University (NSU)
 - 🌍 **Location**: Based in Dhaka, Bangladesh
-- 🗺️ 
 
 ## My Interests
 
