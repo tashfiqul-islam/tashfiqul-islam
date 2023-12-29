@@ -49,5 +49,5 @@ My journey is an ever-evolving adventure. I'm always ready for new connections a
 
 ## Wizarding Stats: My GitHub Grimoire
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=tashfiqul-islam&theme=holi-theme&hide_current_streak=true)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![GitHub stats](https://github-readme-stats.vercel.app/api?username=tashfiqul-islam&show_icons=true&rank_icon=github&theme=holi)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=tashfiqul-islam&theme=holi-theme&hide_current_streak=true)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp;![GitHub stats](https://github-readme-stats.vercel.app/api?username=tashfiqul-islam&show_icons=true&rank_icon=github&theme=holi)
 
