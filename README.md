@@ -19,11 +19,11 @@
 
 ## Magical Insights: Life, Magic, and Friendship
 
-👋 Hey folks! I'm Tashfiq (He/him), a dynamic individual whose life and career are as vibrant and diverse as the magical world of Harry Potter and the heartwarming episodes of F.R.I.E.N.D.S. Nice to meet you! 🍻
+  👋 Hey folks! I'm Tashfiq (He/him), a dynamic individual whose life and career are as vibrant and diverse as the magical world of Harry Potter and the heartwarming episodes of F.R.I.E.N.D.S. Nice to meet you! 🍻
 
-🧙‍♂️ **Magical Beginnings:** My childhood was enchanted by the wizarding world of Harry Potter. The series not only sparked my imagination but also instilled a sense of wonder and curiosity. These qualities have been instrumental in shaping my approach to life, encouraging me to always look beyond the obvious and explore the unknown.
+  🧙‍♂️ **Magical Beginnings:** My childhood was enchanted by the wizarding world of Harry Potter. The series not only sparked my imagination but also instilled a sense of wonder and curiosity. These qualities have been instrumental in shaping my approach to life, encouraging me to always look beyond the obvious and explore the unknown.
 
-🛋️ **Resilience through Friendship:** During my teenage years, F.R.I.E.N.D.S served as a source of comfort and laughter. The show taught me valuable lessons about relationships, empathy, and overcoming life's challenges. These experiences have been pivotal in developing my interpersonal skills and my ability to connect with people from all walks of life.
+  🛋️ **Resilience through Friendship:** During my teenage years, F.R.I.E.N.D.S served as a source of comfort and laughter. The show taught me valuable lessons about relationships, empathy, and overcoming life's challenges. These experiences have been pivotal in developing my interpersonal skills and my ability to connect with people from all walks of life.
 
 </div> 
 
