@@ -10,10 +10,10 @@
   <a href="mailto:tashfiq61@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/tashfiqulislam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://discordapp.com/users/257896257740079105"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://www.instagram.com/___deadshot___/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.threads.net/@___deadshot___"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads"/></a>
+  <a href="https://www.instagram.com/_tashfiqulislam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.threads.net/@_tashfiqulislam"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads"/></a>
   <a href="https://www.reddit.com/user/DeadShotss/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
-  <a href="https://twitter.com/_Tashfiq"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (formerly Twitter)"/></a>
+  <a href="https://twitter.com/_tashfiqulislam"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (formerly Twitter)"/></a>
 </div> 
 
 <br>
@@ -71,7 +71,7 @@
 <!-- Wizarding Stats: My GitHub Grimoire -->
 <div align="left">
   <h2>Wizarding Stats: My GitHub Grimoire</h2>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tashfiqul-islam&theme=holi-theme&card_width=467.5&hide_current_streak=true" alt="GitHub Streak"/></a> 
+  <a href="https://git.io/streak-stats"><img height="150px" src="https://streak-stats.demolab.com?user=tashfiqul-islam&theme=holi-theme&card_width=467.5&hide_current_streak=true" alt="GitHub Streak"/></a> 
   &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=tashfiqul-islam&show_icons=true&rank_icon=github&theme=holi" alt="GitHub Stats"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=tashfiqul-islam&show_icons=true&rank_icon=github&theme=holi" alt="GitHub Stats"/>
 </div>
