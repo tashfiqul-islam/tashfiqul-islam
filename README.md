@@ -13,7 +13,6 @@
   <a href="https://www.instagram.com/_tashfiqulislam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.threads.net/@_tashfiqulislam"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads"/></a>
   <a href="https://www.reddit.com/user/DeadShotss/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
-  <a href="https://twitter.com/_tashfiqulislam"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (formerly Twitter)"/></a>
 </div> 
 
 <br>
@@ -25,12 +24,19 @@
 
 <br>
 
+<!-- Hello World -->
+<div style="text-align: justify;">
+  <h2>Hello World! <img src="https://github.com/tashfiqul-islam/tashfiqul-islam/blob/main/Hi.gif" width="29px"> </h1>
+  <p>👋 Hey folks! I'm Tashfiq (He/him), a dynamic individual whose life and career are as vibrant and diverse as the magical world of Harry Potter and the heartwarming episodes of F.R.I.E.N.D.S. Nice to meet you! 🍻</p>
+</div> 
+
+  <br>
+
 <!-- Magical Insights Section -->
 <div style="text-align: justify;">
-  <h2>Magical Insights: Life, Magic, and Friendship</h2>
-  <p>👋 Hey folks! I'm Tashfiq (He/him), a dynamic individual whose life and career are as vibrant and diverse as the magical world of Harry Potter and the heartwarming episodes of F.R.I.E.N.D.S. Nice to meet you! 🍻</p>
-  <p>🧙‍♂️ <strong>Magical Beginnings:</strong> My childhood was enchanted by the wizarding world of Harry Potter. The series not only sparked my imagination but also instilled a sense of wonder and curiosity...</p>
-  <p>🛋️ <strong>Resilience through Friendship:</strong> During my teenage years, F.R.I.E.N.D.S served as a source of comfort and laughter...</p>
+  <h2>Wizardry & Friendships: Life's Adventures</h2>
+  <p>🧙‍♂️ <strong>Magical Beginnings:</strong> My childhood was enchanted by the wizarding world of Harry Potter. The series not only sparked my imagination but also instilled a sense of wonder and curiosity.</p>
+  <p>🛋️ <strong>Resilience through Friendship:</strong> During my teenage years, F.R.I.E.N.D.S served as a source of comfort and laughter.</p>
 </div> 
 
 <br>
@@ -39,10 +45,10 @@
 <div style="text-align: justify;">
   <h2>Career Wandwork</h2>
   <ul>
-    <li>💼 <strong>Current Role:</strong> Product Manager at Field Nation, LLC</li>
-    <li>📚 <strong>Education:</strong> Computer Science and Engineering (CSE)</li>
-    <li>🎓 <strong>University:</strong> North South University (NSU)</li>
-    <li>🌍 <strong>Location:</strong> Based in Dhaka, Bangladesh</li>
+    <li>💼 <strong>Current Role:</strong> Product Manager at <a href="https://github.com/fieldnation">Field Nation, LLC</a>.</li>
+    <li>📚 <strong>Education:</strong> Computer Science and Engineering (CSE).</li>
+    <li>🎓 <strong>University:</strong> North South University (NSU).</li>
+    <li>🌍 <strong>Location:</strong> Based in Dhaka, Bangladesh.</li>
   </ul>
 </div>
 
@@ -50,7 +56,7 @@
 
 <!-- Muggle Pursuits Section -->
 <div style="text-align: justify;">
-  <h2>Muggle Pursuits: A Slytherin's Interests</h2>
+  <h2>Slytherin Chronicles: Magic, Mischief, and Life Lessons</h2>
   <p>🐍 As a Slytherin Potterhead, I bring creativity and cunning to solving complex user problems.</p>
   <p>✈️ Passionate about traveling, I love exploring new cultures and savoring diverse cuisines.</p>
   <p>☁️ Driven by my love for adventure, aspiring to reach new heights both metaphorically and literally.</p>
@@ -63,7 +69,7 @@
 
 <!-- Closing Section -->
 <div style="text-align: justify;">
-  <p>My journey is an ever-evolving adventure. I'm always ready for new connections and collaborations, whether it's about innovative product strategies, the latest tech, Hogwarts' mysteries, or F.R.I.E.N.D.S moments. And now, as I close this part of my story, with a nod to the Marauder's Map, I say, "Mischief Managed!" 🔥</p>
+  <p>My journey continues to weave through realms of innovation and magical encounters, always seeking new alliances and insights, be it in the world of technology or the corridors of Hogwarts. As I chart this ever-changing path, in the spirit of the Room of Requirement, I find what I need in each new chapter. Onward to the next adventure! ✨</p>
 </div>
 
 <br>
