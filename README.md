@@ -71,7 +71,9 @@
 <!-- Wizarding Stats: My GitHub Grimoire -->
 <div align="left">
   <h2>Wizarding Stats: My GitHub Grimoire</h2>
-  <a href="https://git.io/streak-stats"><img height="172px" src="https://streak-stats.demolab.com?user=tashfiqul-islam&theme=holi-theme&card_width=467.5&hide_current_streak=true" alt="GitHub Streak"/></a> 
-  &nbsp; &nbsp;
-  <img height="172px" src="https://github-readme-stats.vercel.app/api?username=tashfiqul-islam&show_icons=true&rank_icon=github&theme=holi" alt="GitHub Stats"/>
+  <div align="center">
+    <a href="https://git.io/streak-stats"><img height="172px" src="https://streak-stats.demolab.com?user=tashfiqul-islam&theme=holi-theme&card_width=467.5&hide_current_streak=true" alt="GitHub Streak"/></a>
+    &nbsp; &nbsp;
+    <img height="172px" src="https://github-readme-stats.vercel.app/api?username=tashfiqul-islam&show_icons=true&rank_icon=github&theme=holi" alt="GitHub Stats"/>
+  </div>
 </div>
