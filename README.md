@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="https://github.com/tashfiqul-islam/tashfiqul-islam/blob/main/tashfiq-islam.png" alt="Tashfiq Islam Banner" />
+  <img src="https://github.com/tashfiqul-islam/tashfiqul-islam/blob/master/tashfiq-islam.png" alt="Tashfiq Islam Banner" />
 </div>
 
 <br>
