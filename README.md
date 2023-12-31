@@ -7,11 +7,11 @@
 
 <!-- Social Media Badges -->
 <div align="center">
-  <a href="mailto:tashfiq61@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/tashfiqulislam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://discordapp.com/users/257896257740079105"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://www.instagram.com/_tashfiqulislam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.threads.net/@_tashfiqulislam"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads"/></a>
+  <a href="mailto:tashfiq61@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> &nbsp;
+  <a href="https://www.linkedin.com/in/tashfiqulislam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
+  <a href="https://discordapp.com/users/257896257740079105"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> &nbsp;
+  <a href="https://www.instagram.com/_tashfiqulislam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> &nbsp;
+  <a href="https://www.threads.net/@_tashfiqulislam"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads"/></a> &nbsp;
   <a href="https://www.reddit.com/user/DeadShotss/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
 </div> 
 
@@ -19,7 +19,7 @@
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <a href="https://github.com/tashfiqul-islam/"><img src="https://komarev.com/ghpvc/?username=tashfiqul-islam&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views"/></a>
+  <a href="https://github.com/tashfiqul-islam/"><img src="https://komarev.com/ghpvc?username=tashfiqul-islam&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views"/></a>
 </div>
 
 <br>
