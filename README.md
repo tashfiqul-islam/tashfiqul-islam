@@ -26,7 +26,7 @@
 
 <!-- Hello World -->
 <div style="text-align: justify;">
-  <h2>Hello World! <img src="https://github.com/tashfiqul-islam/tashfiqul-islam/blob/main/Hi.gif" width="29px"> </h1>
+  <h2>Hello World! <img src="https://github.com/tashfiqul-islam/tashfiqul-islam/blob/master/Hi.gif" width="29px"> </h1>
   <p>👋 Hey folks! I'm Tashfiq (He/him), a dynamic individual whose life and career are as vibrant and diverse as the magical world of Harry Potter and the heartwarming episodes of F.R.I.E.N.D.S. Nice to meet you! 🍻</p>
 </div> 
 
