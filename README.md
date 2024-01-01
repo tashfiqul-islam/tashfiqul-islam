@@ -19,7 +19,7 @@
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <a href="https://github.com/tashfiqul-islam/"><img src="https://komarev.com/ghpvc/?username=tashfiqul-islam&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views"/></a>
+  <img src="https://git-pvc-b6c98dcecb5c.herokuapp.com/api/view-counter?username=tashfiqul-islam" alt="Profile Views" />
 </div>
 
 <br>
