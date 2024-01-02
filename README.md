@@ -19,7 +19,9 @@
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://custom-icon-badges.demolab.com/static/v1?label=Profile+Visitors&message=438&color=007ec6&style=for-the-badge&logo=github&logoColor=white&logoSource=feather" alt="Profile Views" />
+  <a href="https://github.com/tashfiqul-islam/profile-view-counter">
+    <img src="https://custom-icon-badges.demolab.com/static/v1?label=Profile+Visitors&message=438&color=007ec6&style=for-the-badge&logo=github&logoColor=white&logoSource=feather&cacheBust=1" alt="Profile Views" />
+  </a>
 </div>
 
 <br>
