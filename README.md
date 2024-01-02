@@ -19,7 +19,7 @@
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://git-pvc-b6c98dcecb5c.herokuapp.com/api/view-counter?username=tashfiqul-islam&cacheBust=1" alt="Profile Views" />
+  <img src="https://custom-icon-badges.demolab.com/static/v1?label=Profile+Visitors&message=438&color=007ec6&style=for-the-badge&logo=github&logoColor=white&logoSource=feather" alt="Profile Views" />
 </div>
 
 <br>
