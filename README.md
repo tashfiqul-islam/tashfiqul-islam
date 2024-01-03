@@ -80,7 +80,7 @@
 <div align="left">
   <h2>Wizarding Stats: My GitHub Grimoire</h2>
   <div align="center">
-    <img height="170px" src="https://streak-stats.demolab.com?user=tashfiqul-islam&theme=holi-theme&card_width=467.5&hide_current_streak=true" alt="GitHub Streak"/>
+    <img height="170px" src="https://streak-stats.demolab.com?user=tashfiqul-islam&theme=holi-theme&card_width=467.5&hide_current_streak=false" alt="GitHub Streak"/>
     &nbsp;
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=tashfiqul-islam&show_icons=true&rank_icon=github&theme=holi" alt="GitHub Stats"/>
   </div>
