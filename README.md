@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://github.com/tashfiqul-islam/tashfiqul-islam/blob/master/tashfiq-banner.png" alt="Tashfiq-Banner" />
 </div>
+<!-- End of Banner Image -->
 
 <br>
 
@@ -13,7 +14,8 @@
   <a href="https://www.instagram.com/_tashfiqulislam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> &nbsp;
   <a href="https://www.threads.net/@_tashfiqulislam"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads"/></a> &nbsp;
   <a href="https://www.reddit.com/user/DeadShotss/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
-</div> 
+</div>
+<!-- End of Social Media Badges -->
 
 <br>
 
@@ -23,6 +25,7 @@
     <img src="https://git-pvc-b6c98dcecb5c.herokuapp.com/api/view-counter?username=tashfiqul-islam&cacheBust=1" alt="Profile Views" />
   </a>
 </div>
+<!-- End of Profile Views Counter -->
 
 <br>
 
@@ -30,7 +33,8 @@
 <div style="text-align: justify;">
   <h2>Hello World! <img src="https://github.com/tashfiqul-islam/tashfiqul-islam/blob/master/Hi.gif" width="29px"> </h1>
   <p>👋 Hey folks! I'm Tashfiq (He/him), a dynamic individual whose life and career are as vibrant and diverse as the magical world of Harry Potter and the heartwarming episodes of F.R.I.E.N.D.S. Nice to meet you! 🍻</p>
-</div> 
+</div>
+<!-- End of Hello World -->
 
   <br>
 
@@ -40,6 +44,7 @@
   <p>🧙‍♂️ <strong>Magical Beginnings:</strong> My childhood was enchanted by the wizarding world of Harry Potter. The series not only sparked my imagination but also instilled a sense of wonder and curiosity.</p>
   <p>🛋️ <strong>Resilience through Friendship:</strong> During my teenage years, F.R.I.E.N.D.S served as a source of comfort and laughter.</p>
 </div> 
+<!-- End of Magical Insights Section -->
 
 <br>
 
@@ -53,6 +58,7 @@
     <li>🌍 <strong>Location:</strong> Based in Dhaka, Bangladesh.</li>
   </ul>
 </div>
+<!-- End of Career Wandwork Section -->
 
 <br>
 
@@ -66,6 +72,7 @@
   <p>🎬 A diverse movie enthusiast, my tastes range from sci-fi epics to heartwarming rom-coms.</p>
   <p>🍽️ An explorer of culinary delights, I'm always on the hunt for new and exciting flavors.</p>
 </div>
+<!-- End of Muggle Pursuits Section -->
 
 <br>
 
@@ -73,6 +80,31 @@
 <div style="text-align: justify;">
   <p>My journey continues to weave through realms of innovation and magical encounters, always seeking new alliances and insights, be it in the world of technology or the corridors of Hogwarts. As I chart this ever-changing path, in the spirit of the Room of Requirement, I find what I need in each new chapter. Onward to the next adventure! ✨</p>
 </div>
+<!-- End of Closing Section -->
+
+<br>
+
+<!-- Dhaka's weather table -->
+<h2 align="center"> 🇧🇩 Dhaka's Weather ⛅ </h2>
+<table align="center" style="width:50%">
+    <tr style="text-align:center">
+        <th>Weather</th>
+        <th>Temperature</th>
+        <th>Sunrise</th>
+        <th>Sunset</th>
+        <th>Humidity</th>
+    </tr>
+    <tr style="text-align:center">
+        <!-- Hourly Weather Update -->
+        <td><b>Cloudy</b><img width="15" src="http://openweathermap.org/img/w/02n.png"></td>
+        <td><b>18°c</b></td>
+        <td><b>6:03 AM</b></td>
+        <td><b>5:31 PM</b></td>
+        <td><b>62%</b></td>
+        <!-- End of Hourly Weather Update -->
+    </tr>
+</table>
+<!-- End of Dhaka's weather table -->
 
 <br>
 
@@ -85,3 +117,4 @@
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=tashfiqul-islam&show_icons=true&rank_icon=github&theme=holi" alt="GitHub Stats"/>
   </div>
 </div>
+<!-- End of Wizarding Stats: My GitHub Grimoire -->
