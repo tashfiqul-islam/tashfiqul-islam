@@ -100,8 +100,9 @@
   <td align="center">17°C</td>
   <td align="center">06:42 AM</td>
   <td align="center">05:25 PM</td>
-  <td align="center">77%</td>
+  <td align="center">82%</td>
   <!-- End of Hourly Weather Update -->
+</tr>
 </tr>
 </tr>
 </tr>
