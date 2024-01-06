@@ -85,7 +85,7 @@
 <br>
 
 <!-- Dhaka's weather table -->
-<h2 align="center"> 🇧🇩 Dhaka's Weather ⛅ </h2>
+<h1 align="center"> <img src="https://custom-icon-badges.demolab.com/badge/Dhaka's%20Weather-36454F?style=for-the-badge&logo=bd1-flag-icon" alt="Weather Header"> </h1>
 <table align="center" style="width:50%">
     <tr style="text-align:center">
         <th>Weather</th>
@@ -109,7 +109,7 @@
 <br>
 
 <!-- Wizarding Stats: My GitHub Grimoire -->
-<div align="left">
+<div align="center">
   <h2>Wizarding Stats: My GitHub Grimoire</h2>
   <div align="center">
     <img height="170px" src="https://streak-stats.demolab.com?user=tashfiqul-islam&theme=holi-theme&card_width=467.5&hide_current_streak=false" alt="GitHub Streak"/>
