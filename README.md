@@ -22,7 +22,7 @@
 <!-- Profile Views Counter -->
 <div align="center">
   <a href="https://github.com/tashfiqul-islam/profile-view-counter" target="_blank">
-    <img src="https://git-pvc-b6c98dcecb5c.herokuapp.com/api/view-counter?username=tashfiqul-islam" alt="Profile Views" />
+    <img src="https://git-pvc-b6c98dcecb5c.herokuapp.com/api/view-counter?username=tashfiqul-islam&cachebust=1" alt="Profile Views" />
   </a>
 </div>
 <!-- End of Profile Views Counter -->
