@@ -96,12 +96,13 @@
     </tr>
 <tr style="text-align:center">
   <!-- Hourly Weather Update -->
-  <td align="center">Mist <img width="15" src="http://openweathermap.org/img/w/50d.png"></td>
-  <td align="center">20°C</td>
+  <td align="center">Haze <img width="15" src="http://openweathermap.org/img/w/50d.png"></td>
+  <td align="center">22°C</td>
   <td align="center">06:42 AM</td>
   <td align="center">05:25 PM</td>
-  <td align="center">77%</td>
+  <td align="center">68%</td>
   <!-- End of Hourly Weather Update -->
+</tr>
 </tr>
 </tr>
 </tr>
