@@ -125,6 +125,7 @@
 </tr>
 </tr>
 </tr>
+</tr>
 </table>
 <!-- End of Dhaka's weather table -->
 
