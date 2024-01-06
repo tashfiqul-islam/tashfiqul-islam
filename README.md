@@ -94,8 +94,6 @@
         <th>Sunset</th>
         <th>Humidity</th>
     </tr>
-    <tr style="text-align:center">
-        
 <tr style="text-align:center">
   <!-- Hourly Weather Update -->
   <td><b>Fog</b><img width="15" src="http://openweathermap.org/img/w/50d.png"></td>
@@ -105,8 +103,6 @@
   <td><b>94%</b></td>
   <!-- End of Hourly Weather Update -->
 </tr>
-
-    </tr>
 </table>
 <!-- End of Dhaka's weather table -->
 
