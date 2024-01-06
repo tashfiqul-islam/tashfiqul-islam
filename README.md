@@ -104,6 +104,11 @@
   <!-- End of Hourly Weather Update -->
 </tr>
 </table>
+<div align="center">
+  <h6 style="color: #555555;">
+    <em>P.S. The above table gets updated automatically every hour.</em>
+  </h6>
+</div>
 <!-- End of Dhaka's weather table -->
 
 <br>
