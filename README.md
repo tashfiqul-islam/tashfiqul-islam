@@ -96,12 +96,13 @@
     </tr>
 <tr style="text-align:center">
   <!-- Hourly Weather Update -->
-  <td><b>Fog</b> <img width="15" src="http://openweathermap.org/img/w/50d.png"></td>
-  <td><b>15°C</b></td>
-  <td><b>06:42 AM</b></td>
-  <td><b>05:25 PM</b></td>
-  <td><b>94%</b></td>
+  <td align="center">Fog <img width="15" src="http://openweathermap.org/img/w/50d.png"></td>
+  <td align="center">15°C</td>
+  <td align="center">06:42 AM</td>
+  <td align="center">05:25 PM</td>
+  <td align="center">94%</td>
   <!-- End of Hourly Weather Update -->
+</tr>
 </tr>
 </tr>
 </table>
