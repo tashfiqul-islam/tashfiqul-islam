@@ -103,29 +103,6 @@
   <td align="center">82%</td>
   <!-- End of Hourly Weather Update -->
 </tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
-</tr>
 </table>
 <!-- End of Dhaka's weather table -->
 
