@@ -95,13 +95,15 @@
         <th>Humidity</th>
     </tr>
     <tr style="text-align:center">
-        <!-- Hourly Weather Update -->
-        <td><b>Cloudy</b><img width="15" src="http://openweathermap.org/img/w/02n.png"></td>
-        <td><b>18°c</b></td>
-        <td><b>6:03 AM</b></td>
-        <td><b>5:31 PM</b></td>
-        <td><b>62%</b></td>
-        <!-- End of Hourly Weather Update -->
+        
+<!-- Hourly Weather Update -->
+        <td><b>Current Weather: Fog </b><img width="15" src="http://openweathermap.org/img/w/ Icon: 50d.png"></td>
+        <td><b> Temperature: 15°C </b></td>
+        <td><b> Sunrise: 06:42 AM  AM</b></td>
+        <td><b> Sunset: 05:25 PM  PM</b></td>
+        <td><b> Humidity: 94% %</b></td>
+<!-- End of Hourly Weather Update -->
+
     </tr>
 </table>
 <!-- End of Dhaka's weather table -->
