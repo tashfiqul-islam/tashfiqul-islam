@@ -166,6 +166,6 @@
 <!-- Activity Graph -->
 <div align="center">
   <h2>Hogwarts House Points Tracker</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tashfiqul-islam&hide_title=true&hide_border=false&title_color=60ABEE&line=60ABEE&radius=10&theme=github-dark-dimmed" alt="GitHub Activity Graph"/>
+  <img height="340px"src="https://github-readme-activity-graph.vercel.app/graph?username=tashfiqul-islam&hide_title=true&hide_border=false&title_color=60ABEE&line=60ABEE&radius=10&theme=github-dark-dimmed" alt="GitHub Activity Graph"/>
 </div>
 <!-- End of Activity Graph -->
