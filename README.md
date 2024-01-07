@@ -97,10 +97,10 @@
 <tr style="text-align:center">
   <!-- Hourly Weather Update -->
   <td align="center">Mist <img width="15" src="http://openweathermap.org/img/w/50n.png"></td>
-  <td align="center">17°C</td>
+  <td align="center">16°C</td>
   <td align="center">06:42 AM</td>
   <td align="center">05:25 PM</td>
-  <td align="center">82%</td>
+  <td align="center">88%</td>
   <!-- End of Hourly Weather Update -->
 </tr>
 </table>
