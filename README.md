@@ -29,6 +29,14 @@
 
 <br>
 
+<!-- Typing SVG greetings -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3750&pause=1000&color=60ABEE&center=true&vCenter=true&random=false&width=450&height=100&lines=Hello+there!+I'm+Tashfiq.+;Fancy+seeing+you+here!" alt="Typing SVG" />
+  </a>
+</div>
+<!-- End of Typing SVG greetings -->
+
 <!-- Hello World -->
 <div style="text-align: justify;">
   <h2>Hello World! <img src="https://github.com/tashfiqul-islam/tashfiqul-islam/blob/master/assets/Hi.gif" width="29px"> </h1>
@@ -72,7 +80,7 @@
   <h2>Wizardry & Friendships: Life's Adventures</h2>
   <p>🧙‍♂️ <strong>Magical Beginnings:</strong> My childhood was enchanted by the wizarding world of Harry Potter. The series not only sparked my imagination but also instilled a sense of wonder and curiosity.</p>
   <p>🛋️ <strong>Resilience through Friendship:</strong> During my teenage years, F.R.I.E.N.D.S served as a source of comfort and laughter.</p>
-</div> 
+</div>
 <!-- End of Magical Insights Section -->
 
 <br>
@@ -99,7 +107,7 @@
   <table>
     <tr>
       <td><img alt="Slytherin" title="Slytherin" src="./assets/slytherin-logo.svg" width="50" height="50"></td>
-      <td><strong>Slytherin Potterhead</strong></td> 
+      <td><strong>Slytherin Potterhead</strong></td>
       <td>Creativity and cunning in solving complex problems.</td>
     </tr>
     <tr>
@@ -109,22 +117,22 @@
     </tr>
     <tr>
       <td><img alt="Adventure" title="Adventure" src="./assets/climbing.png" width="50" height="50"></td>
-      <td><strong>Adventure Enthusiast</strong></td> 
+      <td><strong>Adventure Enthusiast</strong></td>
       <td>Aspiring to reach new heights, metaphorically and literally.</td>
     </tr>
     <tr>
       <td><img alt="Gaming" title="Gaming" src="./assets/game-controller.png" width="50" height="50"></td>
-      <td><strong>Gamer at Heart</strong></td> 
+      <td><strong>Gamer at Heart</strong></td>
       <td>Immersed in strategic gaming and city simulations.</td>
     </tr>
     <tr>
       <td><img alt="Movies" title="Movies" src="./assets/film-slate.png" width="50" height="50"></td>
-      <td><strong>Movie Buff</strong></td> 
+      <td><strong>Movie Buff</strong></td>
       <td>From sci-fi epics to heartwarming rom-coms.</td>
     </tr>
     <tr>
       <td><img alt="Cuisine" title="Cuisine" src="./assets/pasta.png" width="50" height="50"></td>
-      <td><strong>Culinary Explorer</strong></td> 
+      <td><strong>Culinary Explorer</strong></td>
       <td>Always hunting for new and exciting flavors.</td>
     </tr>
   </table>
