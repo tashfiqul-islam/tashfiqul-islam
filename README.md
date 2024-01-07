@@ -106,7 +106,7 @@
 </table>
 <div align="center">
   <h6 style="color: #555555;">
-    <em>P.S. The above table gets updated automatically every hour.</em>
+    <em>P.S. The above table gets updated automatically every 8 hours.</em>
   </h6>
 </div>
 <!-- End of Dhaka's weather table -->
