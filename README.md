@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="https://github.com/tashfiqul-islam/tashfiqul-islam/blob/master/tashfiq-banner.png" alt="Tashfiq-Banner" />
+  <img src="https://github.com/tashfiqul-islam/tashfiqul-islam/assets/blob/master/tashfiq-banner.png" alt="Tashfiq-Banner" />
 </div>
 <!-- End of Banner Image -->
 
@@ -31,7 +31,7 @@
 
 <!-- Hello World -->
 <div style="text-align: justify;">
-  <h2>Hello World! <img src="https://github.com/tashfiqul-islam/tashfiqul-islam/blob/master/Hi.gif" width="29px"> </h1>
+  <h2>Hello World! <img src="https://github.com/tashfiqul-islam/tashfiqul-islam/assets/blob/master/Hi.gif" width="29px"> </h1>
   <p>👋 Hey folks! I'm Tashfiq (He/him), a dynamic individual whose life and career are as vibrant and diverse as the magical world of Harry Potter and the heartwarming episodes of F.R.I.E.N.D.S. Nice to meet you! 🍻</p>
 </div>
 <!-- End of Hello World -->
@@ -91,15 +91,38 @@
 
 <br>
 
-<!-- Muggle Pursuits Section -->
-<div style="text-align: justify;">
-  <h2>Slytherin Chronicles: Magic, Mischief, and Life Lessons</h2>
-  <p>🐍 As a Slytherin Potterhead, I bring creativity and cunning to solving complex user problems.</p>
-  <p>✈️ Passionate about traveling, I love exploring new cultures and savoring diverse cuisines.</p>
-  <p>☁️ Driven by my love for adventure, aspiring to reach new heights both metaphorically and literally.</p>
-  <p>🎮 In my free time, I'm often immersed in strategic gaming and city simulations.</p>
-  <p>🎬 A diverse movie enthusiast, my tastes range from sci-fi epics to heartwarming rom-coms.</p>
-  <p>🍽️ An explorer of culinary delights, I'm always on the hunt for new and exciting flavors.</p>
+<!-- Start of Muggle Pursuits Section -->
+<div align="center">
+
+  <h2>🌟 Slytherin Chronicles: Magic, Mischief, and Life Lessons</h2>
+
+  <table>
+    <tr>
+      <td><img alt="Slytherin" title="Slytherin" src="./assets/slytherin-logo.svg" width="50" height="50"></td>
+      <td><strong>Slytherin Potterhead</strong>: Creativity and cunning in solving complex problems.</td>
+    </tr>
+    <tr>
+      <td><img alt="Travel" title="Travel" src="./assets/airplane.png" width="50" height="50"></td>
+      <td><strong>Passionate Traveler</strong>: Exploring new cultures and diverse cuisines.</td>
+    </tr>
+    <tr>
+      <td><img alt="Adventure" title="Adventure" src="./assets/climbing.png" width="50" height="50"></td>
+      <td><strong>Adventure Enthusiast</strong>: Aspiring to reach new heights, metaphorically and literally.</td>
+    </tr>
+    <tr>
+      <td><img alt="Gaming" title="Gaming" src="./assets/game-controller.png" width="50" height="50"></td>
+      <td><strong>Gamer at Heart</strong>: Immersed in strategic gaming and city simulations.</td>
+    </tr>
+    <tr>
+      <td><img alt="Movies" title="Movies" src="./assets/film-state.png" width="50" height="50"></td>
+      <td><strong>Movie Buff</strong>: From sci-fi epics to heartwarming rom-coms.</td>
+    </tr>
+    <tr>
+      <td><img alt="Cuisine" title="Cuisine" src="./assets/pasta.png" width="50" height="50"></td>
+      <td><strong>Culinary Explorer</strong>: Always hunting for new and exciting flavors.</td>
+    </tr>
+  </table>
+
 </div>
 <!-- End of Muggle Pursuits Section -->
 
