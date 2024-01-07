@@ -31,7 +31,7 @@
 
 <!-- Typing SVG greetings -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a alt="Tashfiq" title="Tashfiq" href="https://github.com/tashfiqul-islam/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3750&pause=1000&color=60ABEE&center=true&vCenter=true&random=false&width=450&height=100&lines=Hello+there!+I'm+Tashfiq.+;Fancy+seeing+you+here!" alt="Typing SVG" />
   </a>
 </div>
