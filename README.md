@@ -60,7 +60,7 @@
   </table>
   <div align="center">
     <h6>
-      <em>Last refresh: Sunday, January 07, 2024 at 07:17:08 AM | Sunday, January 07, 2024 at 07:17:08 AM (UTC +6)</em>
+      <em>Last refresh: Sunday, January 07, 2024 at 07:27:33 AM (UTC +6)</em>
     </h6>
   </div>
   <!-- End of Dhaka's weather table -->
