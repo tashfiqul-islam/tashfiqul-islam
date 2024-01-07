@@ -38,6 +38,35 @@
 
   <br>
 
+  <!-- Dhaka's weather table -->
+<h1 align="center"> <img src="https://custom-icon-badges.demolab.com/badge/Dhaka's%20Weather-36454F?style=for-the-badge&logo=bd1-flag-icon" alt="Weather Header"> </h1>
+<table align="center" style="width:50%">
+    <tr style="text-align:center">
+        <th>Weather</th>
+        <th>Temperature</th>
+        <th>Sunrise</th>
+        <th>Sunset</th>
+        <th>Humidity</th>
+    </tr>
+<tr style="text-align:center">
+  <!-- Hourly Weather Update -->
+  <td align="center">Mist <img width="15" src="http://openweathermap.org/img/w/50n.png"></td>
+  <td align="center">16°C</td>
+  <td align="center">06:42 AM</td>
+  <td align="center">05:25 PM</td>
+  <td align="center">88%</td>
+  <!-- End of Hourly Weather Update -->
+</tr>
+</table>
+<div align="center">
+  <h6 style="color: #555555;">
+    <em>P.S. The above table gets updated automatically every 8 hours.</em>
+  </h6>
+</div>
+<!-- End of Dhaka's weather table -->
+
+<br>
+
 <!-- Magical Insights Section -->
 <div style="text-align: justify;">
   <h2>Wizardry & Friendships: Life's Adventures</h2>
@@ -81,35 +110,6 @@
   <p>My journey continues to weave through realms of innovation and magical encounters, always seeking new alliances and insights, be it in the world of technology or the corridors of Hogwarts. As I chart this ever-changing path, in the spirit of the Room of Requirement, I find what I need in each new chapter. Onward to the next adventure! ✨</p>
 </div>
 <!-- End of Closing Section -->
-
-<br>
-
-<!-- Dhaka's weather table -->
-<h1 align="center"> <img src="https://custom-icon-badges.demolab.com/badge/Dhaka's%20Weather-36454F?style=for-the-badge&logo=bd1-flag-icon" alt="Weather Header"> </h1>
-<table align="center" style="width:50%">
-    <tr style="text-align:center">
-        <th>Weather</th>
-        <th>Temperature</th>
-        <th>Sunrise</th>
-        <th>Sunset</th>
-        <th>Humidity</th>
-    </tr>
-<tr style="text-align:center">
-  <!-- Hourly Weather Update -->
-  <td align="center">Mist <img width="15" src="http://openweathermap.org/img/w/50n.png"></td>
-  <td align="center">16°C</td>
-  <td align="center">06:42 AM</td>
-  <td align="center">05:25 PM</td>
-  <td align="center">88%</td>
-  <!-- End of Hourly Weather Update -->
-</tr>
-</table>
-<div align="center">
-  <h6 style="color: #555555;">
-    <em>P.S. The above table gets updated automatically every 8 hours.</em>
-  </h6>
-</div>
-<!-- End of Dhaka's weather table -->
 
 <br>
 
