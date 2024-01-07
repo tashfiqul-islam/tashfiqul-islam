@@ -99,19 +99,23 @@
   <table>
     <tr>
       <td><img alt="Slytherin" title="Slytherin" src="./assets/slytherin-logo.svg" width="50" height="50"></td>
-      <td><strong>Slytherin Potterhead</strong>: Creativity and cunning in solving complex problems.</td>
+      <td><strong>Slytherin Potterhead</strong></td> 
+      <td>Creativity and cunning in solving complex problems.</td>
     </tr>
     <tr>
       <td><img alt="Travel" title="Travel" src="./assets/airplane.png" width="50" height="50"></td>
-      <td><strong>Passionate Traveler</strong>: Exploring new cultures and diverse cuisines.</td>
+      <td><strong>Passionate Traveler</strong></td>
+      <td>Exploring new cultures and diverse cuisines.</td>
     </tr>
     <tr>
       <td><img alt="Adventure" title="Adventure" src="./assets/climbing.png" width="50" height="50"></td>
-      <td><strong>Adventure Enthusiast</strong>: Aspiring to reach new heights, metaphorically and literally.</td>
+      <td><strong>Adventure Enthusiast</strong></td> 
+      <td>Aspiring to reach new heights, metaphorically and literally.</td>
     </tr>
     <tr>
       <td><img alt="Gaming" title="Gaming" src="./assets/game-controller.png" width="50" height="50"></td>
-      <td><strong>Gamer at Heart</strong>: Immersed in strategic gaming and city simulations.</td>
+      <td><strong>Gamer at Heart</strong></td> 
+      <td>Immersed in strategic gaming and city simulations.</td>
     </tr>
     <tr>
       <td><img alt="Movies" title="Movies" src="./assets/film-slate.png" width="50" height="50"></td>
@@ -119,7 +123,8 @@
     </tr>
     <tr>
       <td><img alt="Cuisine" title="Cuisine" src="./assets/pasta.png" width="50" height="50"></td>
-      <td><strong>Culinary Explorer</strong>: Always hunting for new and exciting flavors.</td>
+      <td><strong>Culinary Explorer</strong></td> 
+      <td>Always hunting for new and exciting flavors.</td>
     </tr>
   </table>
 
