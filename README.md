@@ -119,7 +119,8 @@
     </tr>
     <tr>
       <td><img alt="Movies" title="Movies" src="./assets/film-slate.png" width="50" height="50"></td>
-      <td><strong>Movie Buff</strong>: From sci-fi epics to heartwarming rom-coms.</td>
+      <td><strong>Movie Buff</strong></td> 
+      <td>From sci-fi epics to heartwarming rom-coms.</td>
     </tr>
     <tr>
       <td><img alt="Cuisine" title="Cuisine" src="./assets/pasta.png" width="50" height="50"></td>
