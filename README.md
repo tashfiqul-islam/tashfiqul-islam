@@ -58,7 +58,7 @@
     </tr>
 <tr style="text-align:center">
   <!-- Hourly Weather Update -->
-  <td align="center">Drizzle <img width="15" src="http://openweathermap.org/img/w/09n.png"></td>
+  <td align="center">Drizzle <img width="15" src="http://openweathermap.org/img/w/09d.png"></td>
   <td align="center">28°C</td>
   <td align="center">05:14 AM</td>
   <td align="center">06:49 PM</td>
@@ -68,7 +68,7 @@
   </table>
   <div align="center">
     <h6>
-      <em>Last refresh: Monday, July 01, 2024 at 16:22:00 UTC</em>
+      <em>Last refresh: Tuesday, July 02, 2024 at 01:19:03 UTC</em>
     </h6>
   </div>
   <!-- End of Dhaka's weather table -->
