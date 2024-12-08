@@ -58,17 +58,17 @@
     </tr>
 <tr style="text-align:center">
   <!-- Hourly Weather Update -->
-  <td align="center">Haze <img width="15" src="http://openweathermap.org/img/w/50n.png"></td>
-  <td align="center">19°C</td>
-  <td align="center">06:28 AM</td>
+  <td align="center">Mist <img width="15" src="http://openweathermap.org/img/w/50d.png"></td>
+  <td align="center">15°C</td>
+  <td align="center">06:29 AM</td>
   <td align="center">05:11 PM</td>
-  <td align="center">52%</td>
+  <td align="center">82%</td>
   <!-- End of Hourly Weather Update -->
   </tr>
   </table>
   <div align="center">
     <h6>
-      <em>Last refresh: Saturday, December 07, 2024 at 16:12:45 UTC</em>
+      <em>Last refresh: Sunday, December 08, 2024 at 01:01:47 UTC</em>
     </h6>
   </div>
   <!-- End of Dhaka's weather table -->
