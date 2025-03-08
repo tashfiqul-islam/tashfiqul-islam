@@ -59,16 +59,16 @@
 <tr style="text-align:center">
   <!-- Hourly Weather Update -->
   <td align="center">Haze <img width="15" src="http://openweathermap.org/img/w/50d.png"></td>
-  <td align="center">20°C</td>
+  <td align="center">32°C</td>
   <td align="center">06:14 AM</td>
   <td align="center">06:04 PM</td>
-  <td align="center">60%</td>
+  <td align="center">27%</td>
   <!-- End of Hourly Weather Update -->
   </tr>
   </table>
   <div align="center">
     <h6>
-      <em>Last refresh: Saturday, March 08, 2025 at 00:42:58 UTC</em>
+      <em>Last refresh: Saturday, March 08, 2025 at 08:10:56 UTC</em>
     </h6>
   </div>
   <!-- End of Dhaka's weather table -->
