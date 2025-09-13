@@ -62,13 +62,13 @@
         <td align="center">27°C</td>
         <td align="center">05:33</td>
         <td align="center">18:33</td>
-        <td align="center">94%</td>
+        <td align="center">89%</td>
         <!-- End of Hourly Weather Update -->
   </tr>
   </table>
   <div align="center">
     <h6>
-      <em>Last refresh: Saturday, September 13, 2025 at 19:31:58 (UTC+6)</em>
+      <em>Last refresh: Sunday, September 14, 2025 at 03:30:50 (UTC+6)</em>
     </h6>
   </div>
   <!-- End of Dhaka's weather table -->
