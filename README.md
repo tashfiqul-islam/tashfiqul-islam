@@ -68,7 +68,7 @@
   </table>
   <div align="center">
     <h6>
-      <em>Last refresh: Sunday, October 26, 2025 at 03:23:06 (UTC+6)</em>
+      <em>Last refresh: Sunday, October 26, 2025 at 03:31:19 (UTC+6)</em>
     </h6>
   </div>
   <!-- End of Dhaka's weather table -->
