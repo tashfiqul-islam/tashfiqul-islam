@@ -68,7 +68,7 @@
   </table>
   <div align="center">
     <h6>
-      <em>Last refresh: Thursday, January 08, 2026 at 03:07:10 (UTC+6)</em>
+      <em>Last refresh: Thursday, January 08, 2026 at 03:32:05 (UTC+6)</em>
     </h6>
   </div>
   <!-- End of Dhaka's weather table -->
