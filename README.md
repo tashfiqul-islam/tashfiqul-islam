@@ -22,7 +22,7 @@
 <!-- Profile Views Counter -->
 <div align="center">
   <a href="https://github.com/tashfiqul-islam/profile-view-counter" target="_blank">
-    <img src="https://profile-view-counter-jcp1.onrender.com/api/view-counter?username=tashfiqul-islam&cachebust=1" alt="Profile Views" />
+    <img src="https://profile-view-counter.tashfiq61.workers.dev/api/view-counter?username=tashfiqul-islam" alt="Profile Views" />
   </a>
 </div>
 <!-- End of Profile Views Counter -->
@@ -36,6 +36,7 @@
   </a>
 </div>
 <!-- End of Typing SVG greetings -->
+
 
 <!-- Hello World -->
 <div style="text-align: justify;">
