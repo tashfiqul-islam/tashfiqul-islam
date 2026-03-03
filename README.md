@@ -59,17 +59,17 @@
     </tr>
 <tr style="text-align:center">
   <!-- Hourly Weather Update -->
-        <td align="center">Clear Sky <img width="15" src="https://raw.githubusercontent.com/basmilius/weather-icons/dev/production/fill/svg/clear-night.svg" alt="Clear Sky icon"></td>
-        <td align="center">21°C</td>
+        <td align="center">Partly Cloudy <img width="15" src="https://raw.githubusercontent.com/basmilius/weather-icons/dev/production/fill/svg/partly-cloudy-day.svg" alt="Partly Cloudy icon"></td>
+        <td align="center">29°C</td>
         <td align="center">06:18</td>
         <td align="center">18:01</td>
-        <td align="center">94%</td>
+        <td align="center">61%</td>
         <!-- End of Hourly Weather Update -->
   </tr>
   </table>
   <div align="center">
     <h6>
-      <em>Last refresh: Tuesday, March 03, 2026 at 03:37:44 (UTC+6)</em>
+      <em>Last refresh: Tuesday, March 03, 2026 at 11:40:10 (UTC+6)</em>
     </h6>
   </div>
   <!-- End of Dhaka's weather table -->
