@@ -3,11 +3,11 @@
   <desc id="desc">Technical product leader working across developer platforms, APIs, AI agents, and open source. Based in Dhaka with more than seven years in technology and five years in product.</desc>
   <style>.display{font-family:"Arial Narrow","Roboto Condensed","Helvetica Neue",Arial,sans-serif;font-weight:800;letter-spacing:-1.6px}.sans{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}</style>
   <rect width="600" height="800" fill="#0D0A0C"/><rect x=".5" y=".5" width="599" height="799" fill="none" stroke="#302B32"/>
-  <circle cx="28" cy="34" r="4" fill="#58A6FF"/><text x="42" y="39" class="mono" font-size="10" font-weight="700" letter-spacing="1.3" fill="#6F6A72">TASHFIQUL ISLAM / DHAKA</text>
-  <line x1="0" y1="68" x2="600" y2="68" stroke="#302B32"/>
+  <circle cx="24" cy="24" r="3.5" fill="#58A6FF"/><text x="38" y="28" class="mono" font-size="9" font-weight="700" letter-spacing="1.2" fill="#6F6A72">TASHFIQUL ISLAM / DHAKA</text>
+  <line x1="0" y1="48" x2="600" y2="48" stroke="#302B32"/>
   <g class="display" font-size="39" fill="#F2F2EF"><text x="28" y="96">Technical product</text><text x="28" y="143">leader building</text><text x="28" y="190" fill="#58A6FF">developer platforms,</text><text x="28" y="237">APIs + useful AI tools.</text></g>
   <text x="28" y="280" class="sans" font-size="15" fill="#A29EA3">I turn technical infrastructure into products people</text><text x="28" y="303" class="sans" font-size="15" fill="#A29EA3">can understand, adopt, and trust.</text>
-  <line x1="28" y1="340" x2="572" y2="340" stroke="#302B32"/>
+  <line x1="0" y1="340" x2="600" y2="340" stroke="#302B32"/>
   <text x="28" y="376" class="mono" font-size="11" font-weight="700" letter-spacing="1.6" fill="#58A6FF">CURRENT SIGNAL</text>
   <text x="28" y="416" class="sans" font-size="20" font-weight="700" fill="#F2F2EF">7+ years in technology</text><text x="28" y="448" class="sans" font-size="20" font-weight="700" fill="#F2F2EF">5+ years in product</text>
   <text x="28" y="484" class="sans" font-size="14" fill="#A29EA3">Integrations · developer experience</text><text x="28" y="507" class="sans" font-size="14" fill="#A29EA3">AI-agent readiness · automation</text>

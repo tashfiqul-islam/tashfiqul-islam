@@ -2,10 +2,10 @@
   <title id="title">Charter — AI-agent readiness, scored</title><desc id="desc">Featured open-source project. Charter grades repositories from zero to one hundred on how safely an AI coding agent can work in them, then provides fixes for every gap.</desc>
   <style>.display{font-family:"Arial Narrow","Roboto Condensed","Helvetica Neue",Arial,sans-serif;font-weight:800;letter-spacing:-2px}.sans{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}</style>
   <rect width="1200" height="460" fill="#0D0A0C"/><rect x=".5" y=".5" width="1199" height="459" fill="none" stroke="#302B32"/>
-  <circle cx="42" cy="38" r="4" fill="#58A6FF"/>
-  <text x="56" y="43" class="mono" font-size="11" font-weight="700" letter-spacing="1.7" fill="#6F6A72">FEATURED OPEN SOURCE / 01</text>
-  <text x="1140" y="43" text-anchor="end" class="mono" font-size="11" font-weight="700" letter-spacing="1.4" fill="#6F6A72">READINESS MODEL · 0 — 100</text>
-  <line x1="0" y1="72" x2="1200" y2="72" stroke="#302B32"/>
+  <circle cx="38" cy="28" r="3.5" fill="#58A6FF"/>
+  <text x="52" y="32" class="mono" font-size="10" font-weight="700" letter-spacing="1.5" fill="#6F6A72">FEATURED OPEN SOURCE / 01</text>
+  <text x="1148" y="32" text-anchor="end" class="mono" font-size="10" font-weight="700" letter-spacing="1.3" fill="#6F6A72">READINESS MODEL · 0 — 100</text>
+  <line x1="0" y1="56" x2="1200" y2="56" stroke="#302B32"/>
   <text x="54" y="142" class="display" font-size="78" fill="#F2F2EF">CHARTER</text>
   <text x="54" y="191" class="sans" font-size="24" font-weight="700" fill="#F2F2EF">AI-agent readiness, scored.</text>
   <text x="54" y="236" class="sans" font-size="17" fill="#A29EA3">Grades any repository 0–100 on how safely an AI coding agent</text><text x="54" y="263" class="sans" font-size="17" fill="#A29EA3">can work in it — then gives you the exact fix for every gap.</text>

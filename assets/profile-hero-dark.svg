@@ -8,11 +8,11 @@
   </style>
   <rect width="1200" height="430" fill="#0D0A0C"/>
   <rect x=".5" y=".5" width="1199" height="429" fill="none" stroke="#302B32"/>
-  <circle cx="42" cy="38" r="4" fill="#58A6FF"/>
-  <text x="56" y="43" class="mono" font-size="11" font-weight="700" letter-spacing="1.7" fill="#6F6A72">TASHFIQUL ISLAM / DHAKA</text>
-  <text x="1140" y="43" text-anchor="end" class="mono" font-size="11" font-weight="700" letter-spacing="1.4" fill="#6F6A72">PRODUCT · PLATFORM · OPEN SOURCE</text>
-  <line x1="0" y1="72" x2="1200" y2="72" stroke="#302B32"/>
-  <line x1="850" y1="72" x2="850" y2="340" stroke="#302B32"/>
+  <circle cx="38" cy="28" r="3.5" fill="#58A6FF"/>
+  <text x="52" y="32" class="mono" font-size="10" font-weight="700" letter-spacing="1.5" fill="#6F6A72">TASHFIQUL ISLAM / DHAKA</text>
+  <text x="1148" y="32" text-anchor="end" class="mono" font-size="10" font-weight="700" letter-spacing="1.3" fill="#6F6A72">PRODUCT · PLATFORM · OPEN SOURCE</text>
+  <line x1="0" y1="56" x2="1200" y2="56" stroke="#302B32"/>
+  <line x1="850" y1="56" x2="850" y2="340" stroke="#302B32"/>
   <g class="display" font-size="50" fill="#F2F2EF">
     <text x="60" y="126">Technical product leader</text>
     <text x="60" y="190">building <tspan fill="#58A6FF">developer platforms,</tspan></text>
