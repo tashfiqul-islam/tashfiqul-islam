@@ -9,7 +9,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tashfiqulislam/" title="Connect with Tashfiq on LinkedIn"><img src="https://img.shields.io/badge/in-111113?style=flat-square&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/tashfiqulislam/" title="Connect with Tashfiq on LinkedIn"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-111113?style=flat-square&amp;logo=linkedin-in&amp;logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:tashfiq61@gmail.com" title="Email Tashfiq"><img src="https://img.shields.io/badge/Email-111113?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
   <a href="https://www.instagram.com/_tashfiqulislam/" title="Tashfiq on Instagram"><img src="https://img.shields.io/badge/Instagram-111113?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
   <a href="https://www.facebook.com/Tashfiq95" title="Tashfiq on Facebook"><img src="https://img.shields.io/badge/Facebook-111113?style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a>
@@ -25,6 +25,8 @@
 ## `01 / NOW`
 
 I work where product strategy meets technical infrastructure: **APIs, integrations, developer experience, and the systems that help other people build**.
+
+<br>
 
 At [Field Nation](https://github.com/fieldnation), I lead product for integrations and the [developer platform](https://developer.fieldnation.com/). Outside work, I build open-source tools and explore practical questions around coding agents, MCP safety, and automation.
 
@@ -59,13 +61,19 @@ At [Field Nation](https://github.com/fieldnation), I lead product for integratio
 
 An edge-deployed GitHub profile counter built with Cloudflare Workers, D1, KV, and Hono. The live counter at the top of this page is the product itself.
 
+<br>
+
 ### [Profile Weather View](https://github.com/tashfiqul-islam/profile-weather-view) `AUTOMATION / BUN`
 
 A TypeScript and Bun workflow that writes current weather into a GitHub profile automatically, without requiring an API key.
 
+<br>
+
 ### [Bengali Text Summarizer](https://github.com/tashfiqul-islam/bengali-text-summarizer-website) `NLP / NEXT.JS`
 
 A web application for summarizing Bengali news articles, connecting language-focused machine learning with a modern web interface. [Open the live app →](https://bengali-text-summarizer-website.vercel.app)
+
+<br>
 
 ### [Dhaka Metro Station Finder](https://github.com/tashfiqul-islam/metro-station-finder) `MAPS / NEXT.JS`
 
@@ -113,6 +121,8 @@ A practical location tool for finding the nearest metro station in Dhaka and und
 ## `05 / LIVE AUTOMATION`
 
 Current conditions from Dhaka, written into this README by a tool I built.
+
+<br>
 
 <!-- Dhaka's weather table -->
 ## 🌦️ Live from Dhaka
