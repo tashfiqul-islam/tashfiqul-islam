@@ -8,21 +8,22 @@
   </style>
   <rect width="1200" height="430" fill="#FAFAF9"/>
   <rect x=".5" y=".5" width="1199" height="429" fill="none" stroke="#DEDADF"/>
-  <circle cx="46" cy="42" r="4" fill="#58A6FF"/>
-  <text x="60" y="47" class="mono" font-size="12" font-weight="700" letter-spacing="2" fill="#8A858C">TASHFIQUL ISLAM / DHAKA</text>
-  <text x="1140" y="47" text-anchor="end" class="mono" font-size="12" letter-spacing="1.5" fill="#8A858C">PRODUCT · PLATFORM · OPEN SOURCE</text>
-  <line x1="800" y1="78" x2="800" y2="330" stroke="#DEDADF"/>
+  <circle cx="42" cy="38" r="4" fill="#58A6FF"/>
+  <text x="56" y="43" class="mono" font-size="11" font-weight="700" letter-spacing="1.7" fill="#8A858C">TASHFIQUL ISLAM / DHAKA</text>
+  <text x="1140" y="43" text-anchor="end" class="mono" font-size="11" font-weight="700" letter-spacing="1.4" fill="#8A858C">PRODUCT · PLATFORM · OPEN SOURCE</text>
+  <line x1="0" y1="72" x2="1200" y2="72" stroke="#DEDADF"/>
+  <line x1="850" y1="72" x2="850" y2="340" stroke="#DEDADF"/>
   <g class="display" font-size="50" fill="#111113">
     <text x="60" y="126">Technical product leader</text>
     <text x="60" y="190">building <tspan fill="#58A6FF">developer platforms,</tspan></text>
     <text x="60" y="254">APIs, and useful AI tools.</text>
   </g>
   <text x="60" y="296" class="sans" font-size="15" fill="#5F5B62">I turn technical infrastructure into products people can understand, adopt, and trust.</text>
-  <g transform="translate(838 102)">
+  <g transform="translate(880 102)">
     <text class="mono" font-size="11" font-weight="700" letter-spacing="1.8" fill="#58A6FF">CURRENT SIGNAL</text>
     <text y="43" class="sans" font-size="19" font-weight="700" fill="#111113">7+ years in technology</text>
     <text y="76" class="sans" font-size="19" font-weight="700" fill="#111113">5+ years in product</text>
-    <line y1="105" x2="302" y2="105" stroke="#DEDADF"/>
+    <line y1="105" x2="260" y2="105" stroke="#DEDADF"/>
     <text y="141" class="mono" font-size="12" letter-spacing="1.4" fill="#8A858C">NOW</text>
     <text y="171" class="sans" font-size="14" fill="#5F5B62">Integrations · developer experience</text>
     <text y="198" class="sans" font-size="14" fill="#5F5B62">AI-agent readiness · automation</text>

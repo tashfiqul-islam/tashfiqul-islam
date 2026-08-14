@@ -1,8 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="780" viewBox="0 0 600 780" role="img" aria-labelledby="title desc">
   <title id="title">Charter — AI-agent readiness, scored</title><desc id="desc">Featured open-source project. Charter grades repositories from zero to one hundred on how safely an AI coding agent can work in them, then provides fixes for every gap.</desc>
   <style>.display{font-family:"Arial Narrow","Roboto Condensed","Helvetica Neue",Arial,sans-serif;font-weight:800;letter-spacing:-1.5px}.sans{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}</style>
-  <rect width="600" height="780" fill="#FAFAF9"/><rect x=".5" y=".5" width="599" height="779" fill="none" stroke="#DEDADF"/><rect width="6" height="780" fill="#58A6FF"/>
-  <text x="30" y="42" class="mono" font-size="11" font-weight="700" letter-spacing="1.4" fill="#58A6FF">FEATURED OPEN SOURCE / 01</text>
+  <rect width="600" height="780" fill="#FAFAF9"/><rect x=".5" y=".5" width="599" height="779" fill="none" stroke="#DEDADF"/>
+  <circle cx="28" cy="34" r="4" fill="#58A6FF"/><text x="42" y="39" class="mono" font-size="10" font-weight="700" letter-spacing="1.3" fill="#8A858C">FEATURED OPEN SOURCE / 01</text>
+  <line x1="0" y1="68" x2="600" y2="68" stroke="#DEDADF"/>
   <text x="30" y="118" class="display" font-size="65" fill="#111113">CHARTER</text><text x="30" y="162" class="sans" font-size="21" font-weight="700" fill="#111113">AI-agent readiness, scored.</text>
   <text x="30" y="204" class="sans" font-size="15" fill="#5F5B62">Grades any repository 0–100 on how safely an AI</text><text x="30" y="227" class="sans" font-size="15" fill="#5F5B62">coding agent can work in it — then provides every fix.</text>
   <text x="30" y="273" class="mono" font-size="10" letter-spacing="1" fill="#8A858C">OFFLINE · DETERMINISTIC · NO LLM IN THE LOOP</text>
