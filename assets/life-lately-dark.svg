@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Life lately</title><desc id="desc">Recently visited Malaysia, read Continuous Discovery Habits by Teresa Torres, watched The Odyssey, and played 007 First Light.</desc>
+  <style>.display{font-family:"Arial Narrow","Roboto Condensed","Helvetica Neue",Arial,sans-serif;font-weight:800;letter-spacing:-1px}.sans{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}</style>
+  <rect width="1200" height="390" fill="#0D0A0C"/><rect x=".5" y=".5" width="1199" height="389" fill="none" stroke="#302B32"/>
+  <circle cx="42" cy="38" r="4" fill="#58A6FF"/><text x="56" y="43" class="mono" font-size="11" font-weight="700" letter-spacing="1.7" fill="#6F6A72">OUTSIDE THE TERMINAL / CURRENT</text>
+  <line x1="0" y1="72" x2="1200" y2="72" stroke="#302B32"/><line x1="300" y1="72" x2="300" y2="390" stroke="#302B32"/><line x1="750" y1="72" x2="750" y2="390" stroke="#302B32"/><line x1="300" y1="231" x2="1200" y2="231" stroke="#302B32"/>
+  <g class="mono" font-size="10" font-weight="700" letter-spacing="1.4" fill="#6F6A72"><text x="30" y="106">01 / TRAVEL LOG</text><text x="330" y="106">02 / RECENTLY READ</text><text x="780" y="106">03 / RECENTLY WATCHED</text><text x="330" y="265">04 / RECENTLY PLAYED</text><text x="780" y="265">ALWAYS / IN ROTATION</text></g>
+  <text x="30" y="188" class="display" font-size="45" fill="#F2F2EF">Malaysia</text><text x="30" y="216" class="sans" font-size="14" fill="#A29EA3">a recent stamp in the passport</text>
+  <text x="330" y="157" class="display" font-size="25" fill="#F2F2EF">Continuous Discovery Habits</text><text x="330" y="190" class="sans" font-size="14" fill="#A29EA3">Teresa Torres · product discovery</text>
+  <text x="780" y="157" class="display" font-size="32" fill="#F2F2EF">The Odyssey</text><text x="780" y="190" class="sans" font-size="14" fill="#A29EA3">recently watched</text>
+  <text x="330" y="316" class="display" font-size="32" fill="#F2F2EF">007 First Light</text><text x="330" y="349" class="sans" font-size="14" fill="#A29EA3">recently played</text>
+  <text x="780" y="310" class="mono" font-size="13" fill="#58A6FF">TRAVEL · BOOKS · CINEMA</text><text x="780" y="341" class="mono" font-size="13" fill="#58A6FF">GAMES · GOOD FOOD · SLYTHERIN</text>
+</svg>

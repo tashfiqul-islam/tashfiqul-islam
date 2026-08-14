@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="780" viewBox="0 0 600 780" role="img" aria-labelledby="title desc">
+  <title id="title">Charter — AI-agent readiness, scored</title><desc id="desc">Featured open-source project. Charter grades repositories from zero to one hundred on how safely an AI coding agent can work in them, then provides fixes for every gap.</desc>
+  <style>.display{font-family:"Arial Narrow","Roboto Condensed","Helvetica Neue",Arial,sans-serif;font-weight:800;letter-spacing:-1.5px}.sans{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}</style>
+  <rect width="600" height="780" fill="#0D0A0C"/><rect x=".5" y=".5" width="599" height="779" fill="none" stroke="#302B32"/><rect width="6" height="780" fill="#58A6FF"/>
+  <text x="30" y="42" class="mono" font-size="11" font-weight="700" letter-spacing="1.4" fill="#58A6FF">FEATURED OPEN SOURCE / 01</text>
+  <text x="30" y="118" class="display" font-size="65" fill="#F2F2EF">CHARTER</text><text x="30" y="162" class="sans" font-size="21" font-weight="700" fill="#F2F2EF">AI-agent readiness, scored.</text>
+  <text x="30" y="204" class="sans" font-size="15" fill="#A29EA3">Grades any repository 0–100 on how safely an AI</text><text x="30" y="227" class="sans" font-size="15" fill="#A29EA3">coding agent can work in it — then provides every fix.</text>
+  <text x="30" y="273" class="mono" font-size="10" letter-spacing="1" fill="#6F6A72">OFFLINE · DETERMINISTIC · NO LLM IN THE LOOP</text>
+  <g transform="translate(30 314)">
+    <text class="mono" font-size="11" font-weight="700" letter-spacing="1.4" fill="#6F6A72">READINESS MODEL</text><text x="540" text-anchor="end" class="mono" font-size="11" fill="#58A6FF">0 — 100</text>
+    <rect y="24" width="540" height="330" fill="#141216" stroke="#302B32"/>
+    <g class="mono" font-size="10" fill="#A29EA3"><text x="18" y="61">AGENT CONTEXT</text><text x="18" y="115">MCP SAFETY</text><text x="18" y="169">REPRODUCIBILITY</text><text x="18" y="223">CI POSTURE</text><text x="18" y="277">GOVERNANCE</text></g>
+    <g fill="#17283C"><rect x="205" y="48" width="305" height="16"/><rect x="205" y="102" width="305" height="16"/><rect x="205" y="156" width="305" height="16"/><rect x="205" y="210" width="305" height="16"/><rect x="205" y="264" width="305" height="16"/></g>
+    <g fill="#58A6FF"><rect x="205" y="48" width="225" height="16"/><rect x="205" y="102" width="164" height="16"/><rect x="205" y="156" width="251" height="16"/><rect x="205" y="210" width="198" height="16"/><rect x="205" y="264" width="134" height="16"/></g>
+    <line x1="18" y1="300" x2="522" y2="300" stroke="#302B32"/><circle cx="24" cy="317" r="4" fill="#45D98A"/><text x="38" y="321" class="mono" font-size="9" letter-spacing=".8" fill="#6F6A72">LOCAL SCAN · ACTIONABLE FIXES</text>
+  </g>
+  <text x="30" y="722" class="mono" font-size="10" fill="#A29EA3">GO · CLI · GITHUB ACTION · SARIF · APACHE-2.0</text>
+</svg>

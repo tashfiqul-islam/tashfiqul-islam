@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800" role="img" aria-labelledby="title desc">
+  <title id="title">Tashfiq Islam — technical product leader</title>
+  <desc id="desc">Technical product leader working across developer platforms, APIs, AI agents, and open source. Based in Dhaka with more than seven years in technology and five years in product.</desc>
+  <style>.display{font-family:"Arial Narrow","Roboto Condensed","Helvetica Neue",Arial,sans-serif;font-weight:800;letter-spacing:-1.6px}.sans{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}</style>
+  <rect width="600" height="800" fill="#FAFAF9"/><rect x=".5" y=".5" width="599" height="799" fill="none" stroke="#DEDADF"/>
+  <circle cx="30" cy="34" r="4" fill="#58A6FF"/><text x="44" y="39" class="mono" font-size="11" font-weight="700" letter-spacing="1.5" fill="#8A858C">TASHFIQUL ISLAM / DHAKA</text>
+  <g class="display" font-size="39" fill="#111113"><text x="28" y="96">Technical product</text><text x="28" y="143">leader building</text><text x="28" y="190" fill="#58A6FF">developer platforms,</text><text x="28" y="237">APIs + useful AI tools.</text></g>
+  <text x="28" y="280" class="sans" font-size="15" fill="#5F5B62">I turn technical infrastructure into products people</text><text x="28" y="303" class="sans" font-size="15" fill="#5F5B62">can understand, adopt, and trust.</text>
+  <line x1="28" y1="340" x2="572" y2="340" stroke="#DEDADF"/>
+  <text x="28" y="376" class="mono" font-size="11" font-weight="700" letter-spacing="1.6" fill="#58A6FF">CURRENT SIGNAL</text>
+  <text x="28" y="416" class="sans" font-size="20" font-weight="700" fill="#111113">7+ years in technology</text><text x="28" y="448" class="sans" font-size="20" font-weight="700" fill="#111113">5+ years in product</text>
+  <text x="28" y="484" class="sans" font-size="14" fill="#5F5B62">Integrations · developer experience</text><text x="28" y="507" class="sans" font-size="14" fill="#5F5B62">AI-agent readiness · automation</text>
+  <line x1="0" y1="540" x2="600" y2="540" stroke="#DEDADF"/>
+  <g class="mono" font-size="11" font-weight="700" letter-spacing="1.1" fill="#8A858C">
+    <text x="28" y="580">01 / PRODUCT SYSTEMS</text><text x="318" y="580">02 / DEV PLATFORMS</text><text x="28" y="658">03 / AI AGENTS</text><text x="318" y="658">04 / OPEN SOURCE</text>
+  </g>
+  <g fill="#58A6FF"><rect x="28" y="600" width="110" height="3"/><rect x="318" y="600" width="110" height="3"/><rect x="28" y="678" width="110" height="3"/><rect x="318" y="678" width="110" height="3"/></g>
+  <text x="28" y="764" class="mono" font-size="10" letter-spacing="1.2" fill="#8A858C">PRODUCT · PLATFORM · OPEN SOURCE</text>
+</svg>

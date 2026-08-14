@@ -1,172 +1,165 @@
-<!-- Banner Image -->
+<h1 align="center">Hey, I’m Tashfiq 👋</h1>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/profile-hero-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/profile-hero-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
+  <img width="100%" src="./assets/profile-hero-light.svg" alt="Tashfiq Islam — technical product leader building developer platforms, APIs, and useful AI tools">
+</picture>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tashfiqulislam/" title="Connect with Tashfiq on LinkedIn"><img src="https://img.shields.io/badge/in-111113?style=flat-square&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:tashfiq61@gmail.com" title="Email Tashfiq"><img src="https://img.shields.io/badge/Email-111113?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+  <a href="https://www.instagram.com/_tashfiqulislam/" title="Tashfiq on Instagram"><img src="https://img.shields.io/badge/Instagram-111113?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
+  <a href="https://www.facebook.com/Tashfiq95" title="Tashfiq on Facebook"><img src="https://img.shields.io/badge/Facebook-111113?style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a>
+  <a href="https://www.reddit.com/user/tashfiq61/" title="Tashfiq on Reddit"><img src="https://img.shields.io/badge/Reddit-111113?style=flat-square&amp;logo=reddit&amp;logoColor=white" alt="Reddit"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tashfiqul-islam/profile-view-counter" title="Built by me — view the repository"><img src="https://profile-view-counter.tashfiq61.workers.dev/api/view-counter?username=tashfiqul-islam" alt="Tashfiq's GitHub profile visitor count"></a>
+</p>
+
+---
+
+## `01 / NOW`
+
+I work where product strategy meets technical infrastructure: **APIs, integrations, developer experience, and the systems that help other people build**.
+
+At [Field Nation](https://github.com/fieldnation), I lead product for integrations and the [developer platform](https://developer.fieldnation.com/). Outside work, I build open-source tools and explore practical questions around coding agents, MCP safety, and automation.
+
+`PRODUCT SYSTEMS` · `DEVELOPER PLATFORMS` · `AI AGENTS` · `OPEN SOURCE`
+
+---
+
+## `02 / FEATURED OPEN SOURCE`
+
+<a href="https://github.com/use-charter/charter">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/charter-spotlight-mobile-dark.svg">
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/charter-spotlight-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/charter-spotlight-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/charter-spotlight-light.svg">
+    <img width="100%" src="./assets/charter-spotlight-light.svg" alt="Charter — offline-first AI-agent readiness scanner for software repositories">
+  </picture>
+</a>
+
+<p align="center">
+  <strong><a href="https://github.com/use-charter/charter">Explore Charter →</a></strong>
+  &nbsp;·&nbsp; <a href="https://use-charter.dev">Website</a>
+  &nbsp;·&nbsp; <a href="https://github.com/marketplace/actions/charter-ai-agent-readiness">GitHub Marketplace</a>
+  &nbsp;·&nbsp; <a href="https://use-charter.dev/rules">Rule catalog</a>
+</p>
+
+---
+
+## `03 / SELECTED BUILDS`
+
+### [Profile View Counter](https://github.com/tashfiqul-islam/profile-view-counter) `EDGE / TYPESCRIPT`
+
+An edge-deployed GitHub profile counter built with Cloudflare Workers, D1, KV, and Hono. The live counter at the top of this page is the product itself.
+
+### [Profile Weather View](https://github.com/tashfiqul-islam/profile-weather-view) `AUTOMATION / BUN`
+
+A TypeScript and Bun workflow that writes current weather into a GitHub profile automatically, without requiring an API key.
+
+### [Bengali Text Summarizer](https://github.com/tashfiqul-islam/bengali-text-summarizer-website) `NLP / NEXT.JS`
+
+A web application for summarizing Bengali news articles, connecting language-focused machine learning with a modern web interface. [Open the live app →](https://bengali-text-summarizer-website.vercel.app)
+
+### [Dhaka Metro Station Finder](https://github.com/tashfiqul-islam/metro-station-finder) `MAPS / NEXT.JS`
+
+A practical location tool for finding the nearest metro station in Dhaka and understanding the distance from a searched destination. [Open the live app →](https://tashfiqul-islam.github.io/metro-station-finder/)
+
+---
+
+## `04 / BUILDING IN PUBLIC`
+
+<p align="center"><sub><strong>OVERVIEW</strong></sub></p>
+
 <div align="center">
-  <img src="https://github.com/tashfiqul-islam/tashfiqul-islam/blob/master/assets/tashfiq-banner.png" alt="Tashfiq-Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tashfiqul-islam&amp;theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tashfiqul-islam&amp;theme=github">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tashfiqul-islam&amp;theme=github" alt="Tashfiq's GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tashfiqul-islam&amp;theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tashfiqul-islam&amp;theme=github">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tashfiqul-islam&amp;theme=github" alt="Tashfiq's top languages by commit">
+  </picture>
 </div>
-<!-- End of Banner Image -->
 
-<br>
+<p align="center"><sub><strong>RECENT ACTIVITY</strong></sub></p>
 
-<!-- Social Media Badges -->
-<div align="center">
-  <a href="mailto:tashfiq61@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> &nbsp;
-  <a href="https://www.linkedin.com/in/tashfiqulislam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
-  <a href="https://discordapp.com/users/257896257740079105"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> &nbsp;
-  <a href="https://www.instagram.com/_tashfiqulislam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> &nbsp;
-  <a href="https://www.threads.net/@_tashfiqulislam"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads"/></a> &nbsp;
-  <a href="https://www.reddit.com/user/DeadShotss/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
-</div>
-<!-- End of Social Media Badges -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tashfiqul-islam&amp;theme=github-compact&amp;hide_border=true&amp;area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tashfiqul-islam&amp;theme=minimal&amp;hide_border=true&amp;area=true">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tashfiqul-islam&amp;theme=minimal&amp;hide_border=true&amp;area=true" alt="Tashfiq's recent GitHub activity">
+</picture>
 
-<br>
-
-<!-- Profile Views Counter -->
-<div align="center">
-  <a href="https://github.com/tashfiqul-islam/profile-view-counter" target="_blank">
-    <img src="https://profile-view-counter.tashfiq61.workers.dev/api/view-counter?username=tashfiqul-islam" alt="Profile Views" />
-  </a>
-</div>
-<!-- End of Profile Views Counter -->
-
-<br>
-
-<!-- Typing SVG greetings -->
-<div align="center">
-  <a alt="Tashfiq" title="Tashfiq" href="https://github.com/tashfiqul-islam/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3750&pause=1000&color=60ABEE&center=true&vCenter=true&random=false&width=450&height=100&lines=Hello+there!+I'm+Tashfiq.+;Fancy+seeing+you+here!" alt="Typing SVG" />
-  </a>
-</div>
-<!-- End of Typing SVG greetings -->
-
-
-<!-- Hello World -->
-<div style="text-align: justify;">
-  <h2>Hello World! <img src="https://github.com/tashfiqul-islam/tashfiqul-islam/blob/master/assets/Hi.gif" width="29px"> </h1>
-  <p>👋 Hey folks! I'm Tashfiq (He/him), a dynamic individual whose life and career are as vibrant and diverse as the magical world of Harry Potter and the heartwarming episodes of F.R.I.E.N.D.S. Nice to meet you! 🍻</p>
-</div>
-<!-- End of Hello World -->
-
+<details>
+  <summary><strong>Contribution history</strong> · expand the full-year view</summary>
   <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tashfiqul-islam&amp;theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tashfiqul-islam&amp;theme=github">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tashfiqul-islam&amp;theme=github" alt="Tashfiq's GitHub contribution history">
+  </picture>
+</details>
 
-  <!-- Dhaka's weather table -->
-<h1 align="center"> <a href="https://github.com/tashfiqul-islam/profile-weather-view"><img src="https://custom-icon-badges.demolab.com/badge/Dhaka's%20Weather-36454F?style=for-the-badge&logo=bd1-flag-icon" alt="Weather Header"></a> </h1>
-<table align="center" style="width:50%">
-    <tr style="text-align:center">
-        <th>Weather</th>
-        <th>Temperature</th>
-        <th>Sunrise</th>
-        <th>Sunset</th>
-        <th>Humidity</th>
-    </tr>
-<tr style="text-align:center">
-  <!-- Hourly Weather Update -->
+---
+
+## `05 / LIVE AUTOMATION`
+
+Current conditions from Dhaka, written into this README by a tool I built.
+
+<!-- Dhaka's weather table -->
+## 🌦️ Live from Dhaka
+
+<p align="center">
+  <a href="https://github.com/tashfiqul-islam/profile-weather-view"><img src="https://img.shields.io/badge/updated_automatically-Profile_Weather_View-58A6FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="Updated automatically by Profile Weather View"></a>
+</p>
+
+<table align="center">
+  <tr>
+    <th>Weather</th>
+    <th>Temperature</th>
+    <th>Sunrise</th>
+    <th>Sunset</th>
+    <th>Humidity</th>
+  </tr>
+  <tr>
+    <!-- Hourly Weather Update -->
         <td align="center">Mainly Clear <img width="15" src="https://raw.githubusercontent.com/basmilius/weather-icons/dev/production/fill/svg/partly-cloudy-night.svg" alt="Mainly Clear icon"></td>
         <td align="center">29°C</td>
         <td align="center">05:33</td>
         <td align="center">18:33</td>
         <td align="center">84%</td>
-        <!-- End of Hourly Weather Update -->
+    <!-- End of Hourly Weather Update -->
   </tr>
-  </table>
-  <div align="center">
-    <h6>
-      <em>Last refresh: Friday, August 14, 2026 at 20:28:14 (UTC+6)</em>
-    </h6>
-  </div>
-  <!-- End of Dhaka's weather table -->
+</table>
 
-<br>
+<p align="center"><sub><em>Last refresh: Friday, August 14, 2026 at 20:28:14 (UTC+6)</em></sub></p>
+<!-- End of Dhaka's weather table -->
 
-<!-- Magical Insights Section -->
-<div style="text-align: justify;">
-  <h2>Wizardry & Friendships: Life's Adventures</h2>
-  <p>🧙‍♂️ <strong>Magical Beginnings:</strong> My childhood was enchanted by the wizarding world of Harry Potter. The series not only sparked my imagination but also instilled a sense of wonder and curiosity.</p>
-  <p>🛋️ <strong>Resilience through Friendship:</strong> During my teenage years, F.R.I.E.N.D.S served as a source of comfort and laughter.</p>
-</div>
-<!-- End of Magical Insights Section -->
+---
 
-<br>
+## `06 / OUTSIDE THE TERMINAL`
 
-<!-- Career Wandwork Section -->
-<div style="text-align: justify;">
-  <h2>Career Wandwork</h2>
-  <ul>
-    <li>💼 <strong>Current Role:</strong> Product Manager at <a href="https://github.com/fieldnation">Field Nation, LLC</a>.</li>
-    <li>📚 <strong>Education:</strong> Computer Science and Engineering (CSE).</li>
-    <li>🎓 <strong>University:</strong> North South University (NSU).</li>
-    <li>🌍 <strong>Location:</strong> Based in Dhaka, Bangladesh.</li>
-  </ul>
-</div>
-<!-- End of Career Wandwork Section -->
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/life-lately-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/life-lately-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/life-lately-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/life-lately-light.svg">
+  <img width="100%" src="./assets/life-lately-light.svg" alt="Life lately: visited Malaysia, read Continuous Discovery Habits by Teresa Torres, watched The Odyssey, and played 007 First Light">
+</picture>
 
-<br>
+---
 
-<!-- Start of Muggle Pursuits Section -->
 <div align="center">
-
-  <h2>🌟 Slytherin Chronicles: Magic, Mischief, and Life Lessons</h2>
-
-  <table>
-    <tr>
-      <td><img alt="Slytherin" title="Slytherin" src="./assets/slytherin-logo.svg" width="50" height="50"></td>
-      <td><strong>Slytherin Potterhead</strong></td>
-      <td>Creativity and cunning in solving complex problems.</td>
-    </tr>
-    <tr>
-      <td><img alt="Travel" title="Travel" src="./assets/airplane.png" width="50" height="50"></td>
-      <td><strong>Passionate Traveler</strong></td>
-      <td>Exploring new cultures and diverse cuisines.</td>
-    </tr>
-    <tr>
-      <td><img alt="Adventure" title="Adventure" src="./assets/climbing.png" width="50" height="50"></td>
-      <td><strong>Adventure Enthusiast</strong></td>
-      <td>Aspiring to reach new heights, metaphorically and literally.</td>
-    </tr>
-    <tr>
-      <td><img alt="Gaming" title="Gaming" src="./assets/game-controller.png" width="50" height="50"></td>
-      <td><strong>Gamer at Heart</strong></td>
-      <td>Immersed in strategic gaming and city simulations.</td>
-    </tr>
-    <tr>
-      <td><img alt="Movies" title="Movies" src="./assets/film-slate.png" width="50" height="50"></td>
-      <td><strong>Movie Buff</strong></td>
-      <td>From sci-fi epics to heartwarming rom-coms.</td>
-    </tr>
-    <tr>
-      <td><img alt="Cuisine" title="Cuisine" src="./assets/pasta.png" width="50" height="50"></td>
-      <td><strong>Culinary Explorer</strong></td>
-      <td>Always hunting for new and exciting flavors.</td>
-    </tr>
-  </table>
-
+  <sub><strong>BUILDING USEFUL THINGS · LEARNING IN PUBLIC</strong></sub>
+  <h2>Let’s make the complicated feel clear.</h2>
+  <p>Developer platforms, APIs, open source, or practical AI-agent tooling?</p>
+  <p><strong><a href="mailto:tashfiq61@gmail.com">Email me →</a></strong> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/tashfiqulislam/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/tashfiqul-islam?tab=repositories">Explore my repositories</a></p>
 </div>
-<!-- End of Muggle Pursuits Section -->
-
-<br>
-
-<!-- Closing Section -->
-<div style="text-align: justify;">
-  <p>My journey continues to weave through realms of innovation and magical encounters, always seeking new alliances and insights, be it in the world of technology or the corridors of Hogwarts. As I chart this ever-changing path, in the spirit of the Room of Requirement, I find what I need in each new chapter. Onward to the next adventure! ✨</p>
-</div>
-<!-- End of Closing Section -->
-
-<br>
-
-<!-- Wizarding Stats: My GitHub Grimoire -->
-<div align="center">
-  <h2>Wizarding Stats: My GitHub Grimoire</h2>
-  <div align="center">
-    <img height="170px" src="https://streak-stats.demolab.com?user=tashfiqul-islam&theme=holi-theme&card_width=467.5&hide_current_streak=false" alt="GitHub Streak"/>
-    &nbsp;
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=tashfiqul-islam&show_icons=true&rank_icon=github&theme=holi" alt="GitHub Stats"/>
-  </div>
-</div>
-<!-- End of Wizarding Stats: My GitHub Grimoire -->
-
-<br>
-
-<!-- Activity Graph -->
-<div align="center">
-  <h2>Hogwarts House Points Tracker</h2>
-  <img height="290px"src="https://github-readme-activity-graph.vercel.app/graph?username=tashfiqul-islam&hide_title=true&hide_border=false&title_color=60ABEE&line=60ABEE&radius=10&theme=github-dark-dimmed" alt="GitHub Activity Graph"/>
-</div>
-<!-- End of Activity Graph -->
