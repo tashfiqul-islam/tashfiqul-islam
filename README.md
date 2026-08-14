@@ -1,4 +1,4 @@
-<h1 align="center">Tashfiq Islam</h1>
+<h1 align="center">Hi 👋 — I’m Tashfiq.</h1>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/profile-hero-mobile-dark.svg">
