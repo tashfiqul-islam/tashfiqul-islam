@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I’m Tashfiq 👋</h1>
+<h1 align="center">Tashfiq Islam</h1>
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/profile-hero-mobile-dark.svg">
@@ -28,7 +28,7 @@ I work where product strategy meets technical infrastructure: **APIs, integratio
 
 <br>
 
-At [Field Nation](https://github.com/fieldnation), I lead product for integrations and the [developer platform](https://developer.fieldnation.com/). Outside work, I build open-source tools and explore practical questions around coding agents, MCP safety, and automation.
+At [Field Nation](https://github.com/fieldnation), I lead product for integrations and the [developer platform](https://developer.fieldnation.com/). Outside work, I build open-source tools and explore coding-agent readiness, MCP safety, and useful automation.
 
 `PRODUCT SYSTEMS` · `DEVELOPER PLATFORMS` · `AI AGENTS` · `OPEN SOURCE`
 
@@ -83,7 +83,7 @@ A practical location tool for finding the nearest metro station in Dhaka and und
 
 ## `04 / BUILDING IN PUBLIC`
 
-<p align="center"><sub><strong>OVERVIEW</strong></sub></p>
+<p align="center"><sub><strong>AT A GLANCE</strong></sub></p>
 
 <div align="center">
   <picture>
@@ -98,23 +98,13 @@ A practical location tool for finding the nearest metro station in Dhaka and und
   </picture>
 </div>
 
-<p align="center"><sub><strong>RECENT ACTIVITY</strong></sub></p>
+<p align="center"><sub><strong>THE FULL PICTURE</strong></sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tashfiqul-islam&amp;theme=github-compact&amp;hide_border=true&amp;area=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tashfiqul-islam&amp;theme=minimal&amp;hide_border=true&amp;area=true">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tashfiqul-islam&amp;theme=minimal&amp;hide_border=true&amp;area=true" alt="Tashfiq's recent GitHub activity">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tashfiqul-islam&amp;theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tashfiqul-islam&amp;theme=github">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tashfiqul-islam&amp;theme=github" alt="Tashfiq's full-year GitHub contribution history">
 </picture>
-
-<details>
-  <summary><strong>Contribution history</strong> · expand the full-year view</summary>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tashfiqul-islam&amp;theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tashfiqul-islam&amp;theme=github">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tashfiqul-islam&amp;theme=github" alt="Tashfiq's GitHub contribution history">
-  </picture>
-</details>
 
 ---
 
@@ -125,7 +115,7 @@ Current conditions from Dhaka, written into this README by a tool I built.
 <br>
 
 <!-- Dhaka's weather table -->
-## 🌦️ Live from Dhaka
+<h3 align="center">🌦️ Live from Dhaka</h3>
 
 <p align="center">
   <a href="https://github.com/tashfiqul-islam/profile-weather-view"><img src="https://img.shields.io/badge/updated_automatically-Profile_Weather_View-58A6FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="Updated automatically by Profile Weather View"></a>
@@ -162,14 +152,14 @@ Current conditions from Dhaka, written into this README by a tool I built.
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/life-lately-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/life-lately-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/life-lately-light.svg">
-  <img width="100%" src="./assets/life-lately-light.svg" alt="Life lately: visited Malaysia, read Continuous Discovery Habits by Teresa Torres, watched The Odyssey, and played 007 First Light">
+  <img width="100%" src="./assets/life-lately-light.svg" alt="Life lately: visited Malaysia, read Continuous Discovery Habits by Teresa Torres, watched Spider-Man: Brand New Day, and played 007 First Light">
 </picture>
 
 ---
 
 <div align="center">
   <sub><strong>BUILDING USEFUL THINGS · LEARNING IN PUBLIC</strong></sub>
-  <h2>Let’s make the complicated feel clear.</h2>
+  <h2>Making complex systems feel clear.</h2>
   <p>Developer platforms, APIs, open source, or practical AI-agent tooling?</p>
   <p><strong><a href="mailto:tashfiq61@gmail.com">Email me →</a></strong> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/tashfiqulislam/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/tashfiqul-islam?tab=repositories">Explore my repositories</a></p>
 </div>

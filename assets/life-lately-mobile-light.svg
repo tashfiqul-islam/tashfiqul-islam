@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800" role="img" aria-labelledby="title desc">
-  <title id="title">Life lately</title><desc id="desc">Recently visited Malaysia, read Continuous Discovery Habits by Teresa Torres, watched The Odyssey, and played 007 First Light.</desc>
+  <title id="title">Life lately</title><desc id="desc">Recently visited Malaysia, read Continuous Discovery Habits by Teresa Torres, watched Spider-Man: Brand New Day, and played 007 First Light.</desc>
   <style>.display{font-family:"Arial Narrow","Roboto Condensed","Helvetica Neue",Arial,sans-serif;font-weight:800;letter-spacing:-1px}.sans{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}</style>
   <rect width="600" height="800" fill="#FAFAF9"/><rect x=".5" y=".5" width="599" height="799" fill="none" stroke="#DEDADF"/>
   <circle cx="28" cy="34" r="4" fill="#58A6FF"/><text x="42" y="39" class="mono" font-size="10" font-weight="700" letter-spacing="1.3" fill="#8A858C">OUTSIDE THE TERMINAL / CURRENT</text>
@@ -7,7 +7,7 @@
   <g class="mono" font-size="10" font-weight="700" letter-spacing="1.3" fill="#8A858C"><text x="28" y="100">01 / TRAVEL LOG</text><text x="28" y="276">02 / RECENTLY READ</text><text x="28" y="452">03 / RECENTLY WATCHED</text><text x="28" y="628">04 / RECENTLY PLAYED</text></g>
   <text x="28" y="170" class="display" font-size="42" fill="#111113">Malaysia</text><text x="28" y="207" class="sans" font-size="14" fill="#5F5B62">a recent stamp in the passport</text>
   <text x="28" y="339" class="display" font-size="30" fill="#111113">Continuous Discovery Habits</text><text x="28" y="382" class="sans" font-size="14" fill="#5F5B62">Teresa Torres · product discovery</text>
-  <text x="28" y="522" class="display" font-size="36" fill="#111113">The Odyssey</text><text x="28" y="558" class="sans" font-size="14" fill="#5F5B62">recently watched</text>
+  <text x="28" y="522" class="display" font-size="34" fill="#111113">Spider-Man: Brand New Day</text><text x="28" y="558" class="sans" font-size="14" fill="#5F5B62">recently watched</text>
   <text x="28" y="698" class="display" font-size="36" fill="#111113">007 First Light</text><text x="28" y="734" class="sans" font-size="14" fill="#5F5B62">recently played</text>
   <text x="28" y="778" class="mono" font-size="9" letter-spacing=".8" fill="#58A6FF">TRAVEL · BOOKS · CINEMA · GAMES · GOOD FOOD · SLYTHERIN</text>
 </svg>
