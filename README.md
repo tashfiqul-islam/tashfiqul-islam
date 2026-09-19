@@ -131,16 +131,16 @@ Current conditions from Dhaka, written into this README by a tool I built.
   </tr>
   <tr>
     <!-- Hourly Weather Update -->
-        <td align="center">Clear Sky <img width="15" src="https://raw.githubusercontent.com/basmilius/weather-icons/dev/production/fill/svg/clear-day.svg" alt="Clear Sky icon"></td>
-        <td align="center">35°C</td>
+        <td align="center">Overcast <img width="15" src="https://raw.githubusercontent.com/basmilius/weather-icons/dev/production/fill/svg/overcast-night.svg" alt="Overcast icon"></td>
+        <td align="center">30°C</td>
         <td align="center">05:46</td>
         <td align="center">17:58</td>
-        <td align="center">51%</td>
+        <td align="center">77%</td>
     <!-- End of Hourly Weather Update -->
   </tr>
 </table>
 
-<p align="center"><sub><em>Last refresh: Saturday, September 19, 2026 at 15:36:48 (UTC+6)</em></sub></p>
+<p align="center"><sub><em>Last refresh: Saturday, September 19, 2026 at 22:34:58 (UTC+6)</em></sub></p>
 <!-- End of Dhaka's weather table -->
 
 ---
