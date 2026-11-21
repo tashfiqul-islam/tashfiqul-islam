@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋 — I’m Tashfiq.</h1>
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/hero-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/hero-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img width="100%" src="./assets/hero-light.svg" alt="Tashfiqul Islam, Technical Product Manager for Engineering Enablement and Platform Modernization in Dhaka. I help engineers do their best work: the bridge between technology and people. Focus: developer experience, platform modernization and engineering enablement. 7+ years in technology, 5+ in product.">
-</picture>
+<a href="https://github.com/tashfiqul-islam#gh-dark-mode-only">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/hero-mobile-dark.svg">
+    <img width="100%" src="./assets/hero-dark.svg" alt="Tashfiqul Islam, Technical Product Manager for Engineering Enablement and Platform Modernization in Dhaka. I help engineers do their best work: the bridge between technology and people. Focus: developer experience, platform modernization and engineering enablement. 7+ years in technology, 5+ in product.">
+  </picture>
+</a>
+<a href="https://github.com/tashfiqul-islam#gh-light-mode-only">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/hero-mobile-light.svg">
+    <img width="100%" src="./assets/hero-light.svg" alt="Tashfiqul Islam, Technical Product Manager for Engineering Enablement and Platform Modernization in Dhaka. I help engineers do their best work: the bridge between technology and people. Focus: developer experience, platform modernization and engineering enablement. 7+ years in technology, 5+ in product.">
+  </picture>
+</a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tashfiqulislam/" title="Connect on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
@@ -33,12 +39,18 @@ explore how teams can adopt AI coding agents safely.
 
 ## `02 / HOW I WORK`
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/principles-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/principles-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/principles-dark.svg">
-  <img width="100%" src="./assets/principles-light.svg" alt="How I work. Flow: protect deep work, with fewer handoffs and waits. Feedback: fast loops everywhere, from build and test to review and ship. Focus: less cognitive load, through paved roads and clear docs. The long game: platforms are never done, so play the infinite game.">
-</picture>
+<a href="https://github.com/tashfiqul-islam#gh-dark-mode-only">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/principles-mobile-dark.svg">
+    <img width="100%" src="./assets/principles-dark.svg" alt="How I work. Flow: protect deep work, with fewer handoffs and waits. Feedback: fast loops everywhere, from build and test to review and ship. Focus: less cognitive load, through paved roads and clear docs. The long game: platforms are never done, so play the infinite game.">
+  </picture>
+</a>
+<a href="https://github.com/tashfiqul-islam#gh-light-mode-only">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/principles-mobile-light.svg">
+    <img width="100%" src="./assets/principles-light.svg" alt="How I work. Flow: protect deep work, with fewer handoffs and waits. Feedback: fast loops everywhere, from build and test to review and ship. Focus: less cognitive load, through paved roads and clear docs. The long game: platforms are never done, so play the infinite game.">
+  </picture>
+</a>
 
 Every improvement runs the same loop, and it starts and ends with the engineers who use it:
 
@@ -67,11 +79,15 @@ Every improvement runs the same loop, and it starts and ends with the engineers 
 
 ## `03 / FEATURED OPEN SOURCE`
 
-<a href="https://github.com/use-charter/charter">
+<a href="https://github.com/use-charter/charter#gh-dark-mode-only">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/charter-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="./assets/charter-mobile-dark.svg">
+    <img width="100%" src="./assets/charter-dark.svg" alt="Charter: an offline, deterministic scanner that scores any repository 0 to 100 on how safely an AI coding agent can work in it, across agent context, MCP safety, reproducibility, CI posture and governance.">
+  </picture>
+</a>
+<a href="https://github.com/use-charter/charter#gh-light-mode-only">
+  <picture>
     <source media="(max-width: 600px)" srcset="./assets/charter-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/charter-dark.svg">
     <img width="100%" src="./assets/charter-light.svg" alt="Charter: an offline, deterministic scanner that scores any repository 0 to 100 on how safely an AI coding agent can work in it, across agent context, MCP safety, reproducibility, CI posture and governance.">
   </picture>
 </a>
@@ -122,12 +138,18 @@ Current conditions, written into this README by [Profile Weather View](https://g
 
 ## `06 / OFF THE CLOCK`
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/life-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/life-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/life-dark.svg">
-  <img width="100%" src="./assets/life-light.svg" alt="Off the clock. Now reading The Infinite Game by Simon Sinek. Last trip: Malaysia. Last watched: Spider-Man: Brand New Day. Now playing: 007 First Light. In rotation: travel, books, cinema, games, good food and Slytherin.">
-</picture>
+<a href="https://github.com/tashfiqul-islam#gh-dark-mode-only">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/life-mobile-dark.svg">
+    <img width="100%" src="./assets/life-dark.svg" alt="Off the clock. Now reading The Infinite Game by Simon Sinek. Last trip: Malaysia. Last watched: Spider-Man: Brand New Day. Now playing: 007 First Light. In rotation: travel, books, cinema, games, good food and Slytherin.">
+  </picture>
+</a>
+<a href="https://github.com/tashfiqul-islam#gh-light-mode-only">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/life-mobile-light.svg">
+    <img width="100%" src="./assets/life-light.svg" alt="Off the clock. Now reading The Infinite Game by Simon Sinek. Last trip: Malaysia. Last watched: Spider-Man: Brand New Day. Now playing: 007 First Light. In rotation: travel, books, cinema, games, good food and Slytherin.">
+  </picture>
+</a>
 
 ---
 
