@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
+<title id="title">Off the clock</title>
+<desc id="desc">Now reading The Infinite Game by Simon Sinek. last trip: Malaysia; last watched: Spider-Man: Brand New Day; now playing: 007 First Light. In rotation: travel · books · cinema · games · good food · Slytherin.</desc>
+<defs>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1f242c"/></pattern>
+<radialGradient id="glow"><stop offset="0" stop-color="#58a6ff" stop-opacity="0.16"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1280" height="460" fill="#0d1117"/>
+<rect width="1280" height="460" fill="url(#dots)"/>
+<circle cx="260" cy="200" r="420" fill="url(#glow)"/>
+<path d="M40 40H76M250.1 40H862.5M1204 40H1240V420H40V40" fill="none" stroke="#30363d" stroke-dasharray="6 6"/><path d="M34 40h12M40 34v12" stroke="#6e7681" stroke-width="1.5"/><path d="M1234 40h12M1240 34v12" stroke="#6e7681" stroke-width="1.5"/><path d="M34 420h12M40 414v12" stroke="#6e7681" stroke-width="1.5"/><path d="M1234 420h12M1240 414v12" stroke="#6e7681" stroke-width="1.5"/><text x="84" y="45" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.5" fill="#9198a1">[ OFF THE CLOCK ]</text><text x="1196" y="45" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" text-anchor="end" letter-spacing="1.5" fill="#6e7681">[ BOOKS · TRAVEL · CINEMA · GAMES ]</text>
+<circle cx="96" cy="123" r="4" fill="#58a6ff"/><text x="110" y="128" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2" fill="#58a6ff">NOW READING</text>
+<text x="90" y="186" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="-1" fill="#f0f6fc">The Infinite Game</text>
+<text x="92" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#58a6ff">Simon Sinek</text>
+<text x="92" y="268" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#9198a1">Finite players play to win;</text>
+<text x="92" y="292" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#9198a1">infinite players play to keep playing.</text>
+<path d="M560 96V364M560 230H1188M876 96V230" stroke="#30363d"/>
+<text x="600" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.5" fill="#6e7681">LAST TRIP</text>
+<text x="600" y="174" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="-0.5" fill="#f0f6fc">Malaysia</text>
+<text x="600" y="204" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#9198a1">a recent stamp in the passport</text>
+<text x="916" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.5" fill="#6e7681">NOW PLAYING</text>
+<text x="916" y="174" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="-0.5" fill="#f0f6fc">007 First Light</text>
+<text x="916" y="204" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#9198a1">recently played</text>
+<text x="600" y="268" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.5" fill="#6e7681">LAST WATCHED</text>
+<text x="600" y="310" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="-0.5" fill="#f0f6fc">Spider-Man: Brand New Day</text>
+<text x="600" y="340" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#9198a1">recently watched</text>
+<path d="M92 364h1096" stroke="#30363d"/>
+<text x="92" y="396" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.5" fill="#6e7681">IN ROTATION</text>
+<text x="240" y="396" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="0.5" fill="#58a6ff">travel · books · cinema · games · good food · Slytherin</text>
+</svg>
