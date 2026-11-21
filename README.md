@@ -25,6 +25,8 @@
   <a href="https://github.com/tashfiqul-islam/profile-view-counter" title="Profile View Counter, built by me"><img src="https://profile-view-counter.tashfiq61.workers.dev/api/view-counter?username=tashfiqul-islam" alt="Profile visitors"></a>
 </p>
 
+<br>
+
 ## `01 / NOW`
 
 I'm a **Technical Product Manager for Engineering Enablement & Platform Modernization** at
@@ -36,6 +38,8 @@ I'm the bridge between technology and people. Outside work I build open-source d
 explore how teams can adopt AI coding agents safely.
 
 `DEVELOPER EXPERIENCE` · `PLATFORM MODERNIZATION` · `ENGINEERING ENABLEMENT` · `AI AGENTS`
+
+<br>
 
 ## `02 / HOW I WORK`
 
@@ -77,6 +81,8 @@ Every improvement runs the same loop, and it starts and ends with the engineers 
 +--------------------------------------------------+
 ```
 
+<br>
+
 ## `03 / FEATURED OPEN SOURCE`
 
 <a href="https://github.com/use-charter/charter#gh-dark-mode-only">
@@ -99,6 +105,8 @@ Every improvement runs the same loop, and it starts and ends with the engineers 
   &nbsp;·&nbsp; <a href="https://use-charter.dev/rules">Rule catalog</a>
 </p>
 
+<br>
+
 ## `04 / SELECTED BUILDS`
 
 | Project                                                                                       | What it does                                                                                                            | Built with             |
@@ -108,6 +116,8 @@ Every improvement runs the same loop, and it starts and ends with the engineers 
 | [Ghostframe](https://github.com/tashfiqul-islam/ghostframe)                                   | A grid look for the Claude Code transcript: gutter labels, rails and framed cards                                       | Claude Code            |
 | [Dhaka Metro Station Finder](https://github.com/tashfiqul-islam/metro-station-finder)         | Finds the nearest metro station to any place in Dhaka ([live](https://tashfiqul-islam.github.io/metro-station-finder/)) | Next.js, maps          |
 | [Bengali Text Summarizer](https://github.com/tashfiqul-islam/bengali-text-summarizer-website) | Summarizes Bengali news articles ([live](https://bengali-text-summarizer-website.vercel.app))                           | Next.js, NLP           |
+
+<br>
 
 ## `05 / LIVE FROM DHAKA`
 
@@ -136,6 +146,8 @@ Current conditions, written into this README by [Profile Weather View](https://g
 <p align="center"><sub><em>Last refresh: Friday, November 20, 2026 at 20:12:24 (UTC+6)</em></sub></p>
 <!-- End of Dhaka's weather table -->
 
+<br>
+
 ## `06 / OFF THE CLOCK`
 
 <a href="https://github.com/tashfiqul-islam#gh-dark-mode-only">
@@ -150,6 +162,8 @@ Current conditions, written into this README by [Profile Weather View](https://g
     <img width="100%" src="./assets/life-light.svg" alt="Off the clock. Now reading The Infinite Game by Simon Sinek. Last trip: Malaysia. Last watched: Spider-Man: Brand New Day. Now playing: 007 First Light. In rotation: travel, books, cinema, games, good food and Slytherin.">
   </picture>
 </a>
+
+<br>
 
 ---
 
