@@ -4,7 +4,7 @@ import { art, escapeXml } from "./art";
 describe("art", () => {
   test("every committed image matches the generator", async () => {
     const files = Object.entries(art());
-    expect(files).toHaveLength(16);
+    expect(files).toHaveLength(20);
     const committed = await Promise.all(files.map(([path]) => Bun.file(path).text()));
     expect(committed).toEqual(files.map(([, svg]) => svg));
   });
@@ -23,7 +23,7 @@ describe("art", () => {
     // <picture> media with prefers-color-scheme would follow the OS instead.
     expect(readme).not.toContain("prefers-color-scheme");
     const blocks = [...readme.matchAll(/<a href="([^"]*)">\s*<picture>([\s\S]*?)<\/picture>/g)];
-    expect(blocks).toHaveLength(8);
+    expect(blocks).toHaveLength(10);
     for (const [, link = "", body = ""] of blocks) {
       const mode = /#gh-(dark|light)-mode-only$/.exec(link)?.[1];
       expect(mode).toBeDefined();

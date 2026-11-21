@@ -83,7 +83,27 @@ Every improvement runs the same loop, and it starts and ends with the engineers 
 
 <br>
 
-## `03 / FEATURED OPEN SOURCE`
+## `03 / TOOLKIT`
+
+<a href="https://github.com/tashfiqul-islam#gh-dark-mode-only">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/toolkit-mobile-dark.svg">
+    <img width="100%" src="./assets/toolkit-dark.svg" alt="Toolkit. Languages and runtimes: TypeScript, Go, Python, Bun, Node.js. Frontend: Next.js, React, Astro, Tailwind CSS, shadcn/ui. Platform and data: Cloudflare Workers, D1, Hono, Zod, Valibot, Vercel. DX and quality: mise, hk, oxlint, oxfmt, Vitest, Playwright. CI/CD and release: GitHub Actions, Renovate, semantic-release, zizmor. Agentic and AI: Claude Code, Codex, MCP, AGENTS.md, agent skills. Now exploring: TypeScript 7, oxc, MCP servers, agent workflows, DX utilities.">
+  </picture>
+</a>
+<a href="https://github.com/tashfiqul-islam#gh-light-mode-only">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/toolkit-mobile-light.svg">
+    <img width="100%" src="./assets/toolkit-light.svg" alt="Toolkit. Languages and runtimes: TypeScript, Go, Python, Bun, Node.js. Frontend: Next.js, React, Astro, Tailwind CSS, shadcn/ui. Platform and data: Cloudflare Workers, D1, Hono, Zod, Valibot, Vercel. DX and quality: mise, hk, oxlint, oxfmt, Vitest, Playwright. CI/CD and release: GitHub Actions, Renovate, semantic-release, zizmor. Agentic and AI: Claude Code, Codex, MCP, AGENTS.md, agent skills. Now exploring: TypeScript 7, oxc, MCP servers, agent workflows, DX utilities.">
+  </picture>
+</a>
+
+What I reach for most, and I'm always trying something new: frameworks, workflows, agentic tools
+and the small utilities that make a developer's day smoother.
+
+<br>
+
+## `04 / FEATURED OPEN SOURCE`
 
 <a href="https://github.com/use-charter/charter#gh-dark-mode-only">
   <picture>
@@ -107,7 +127,7 @@ Every improvement runs the same loop, and it starts and ends with the engineers 
 
 <br>
 
-## `04 / SELECTED BUILDS`
+## `05 / SELECTED BUILDS`
 
 | Project                                                                                       | What it does                                                                                                            | Built with             |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------- |
@@ -119,7 +139,7 @@ Every improvement runs the same loop, and it starts and ends with the engineers 
 
 <br>
 
-## `05 / LIVE FROM DHAKA`
+## `06 / LIVE FROM DHAKA`
 
 Current conditions, written into this README by [Profile Weather View](https://github.com/tashfiqul-islam/profile-weather-view).
 
@@ -148,7 +168,7 @@ Current conditions, written into this README by [Profile Weather View](https://g
 
 <br>
 
-## `06 / OFF THE CLOCK`
+## `07 / OFF THE CLOCK`
 
 <a href="https://github.com/tashfiqul-islam#gh-dark-mode-only">
   <picture>

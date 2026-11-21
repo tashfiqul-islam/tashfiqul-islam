@@ -39,6 +39,15 @@ export const PROFILE = {
     ["04", "The long game", "Platforms are never done:", "play the infinite game."],
   ],
   principlesSource: "flow · feedback · cognitive load: DevEx (ACM Queue, 2023)",
+  toolkit: [
+    ["01", "LANGUAGES & RUNTIMES", ["TypeScript", "Go", "Python", "Bun", "Node.js"]],
+    ["02", "FRONTEND", ["Next.js", "React", "Astro", "Tailwind CSS", "shadcn/ui"]],
+    ["03", "PLATFORM & DATA", ["Cloudflare Workers", "D1", "Hono", "Zod", "Valibot", "Vercel"]],
+    ["04", "DX & QUALITY", ["mise", "hk", "oxlint", "oxfmt", "Vitest", "Playwright"]],
+    ["05", "CI/CD & RELEASE", ["GitHub Actions", "Renovate", "semantic-release", "zizmor"]],
+    ["06", "AGENTIC & AI", ["Claude Code", "Codex", "MCP", "AGENTS.md", "agent skills"]],
+  ],
+  exploring: ["TypeScript 7", "oxc", "MCP servers", "agent workflows", "DX utilities"],
   charter: {
     pitch: ["Scores any repository 0–100 on how", "safely an AI coding agent can work in it."],
     traits: "OFFLINE · DETERMINISTIC · NO LLM IN THE LOOP",
@@ -517,10 +526,108 @@ export function lifeSvg(mode: Mode, width: Width): string {
   ]);
 }
 
+/** One chip: an outlined pill with mono text; `hot` fills it with the accent tint. */
+function chip(ink: Style, x: number, y: number, label: string, hot = false): string {
+  const height = ink.label + 17;
+  const width = chipWidth(ink, label);
+  return [
+    `<rect x="${x}" y="${y}" width="${width}" height="${height}" rx="${height / 2}" fill="${hot ? ink.accent : ink.bg}" fill-opacity="${hot ? 0.12 : 0.7}" stroke="${hot ? ink.accent : ink.frame}"/>`,
+    text({ anchor: "middle", fill: hot ? ink.accent : ink.ink, size: ink.label, text: label, x: round(x + width / 2), y: round(y + height / 2 + ink.label * 0.35) }),
+  ].join("");
+}
+
+/** Width of a chip, from monospace advances plus padding. */
+const chipWidth = (ink: Style, label: string): number => round(label.length * ink.label * MONO_ADVANCE + 24);
+
+/** Lays chips left to right, wrapping at `width`; returns the markup and the height used. */
+function chips(ink: Style, x: number, y: number, width: number, labels: readonly string[], hot = false) {
+  const gap = 8;
+  const rowHeight = ink.label + 17 + gap;
+  let [cx, cy] = [x, y];
+  const parts = labels.map((label) => {
+    const w = chipWidth(ink, label);
+    if (cx > x && cx + w > x + width) [cx, cy] = [x, cy + rowHeight];
+    const part = chip(ink, cx, cy, label, hot);
+    cx += w + gap;
+    return part;
+  });
+  return { height: cy - y + rowHeight - gap, markup: parts.join("") };
+}
+
+/**
+ * Renders the toolkit: six categories of everyday tools and a row of what is being explored now.
+ *
+ * @param mode - GitHub colour mode the image is for.
+ * @param width - Desktop (`wide`, 1280 px, 3 × 2 cards) or phone (`narrow`, 720 px, one column).
+ * @returns A standalone SVG document; height follows the content.
+ */
+export function toolkitSvg(mode: Mode, width: Width): string {
+  const ink = style(mode, width);
+  const wide = width === "wide";
+  const columns = wide ? 3 : 1;
+  const cardWidth = wide ? 360 : 568;
+  const gutter = 24;
+  const origin = { x: wide ? 76 : 76, y: 100 };
+  const inner = cardWidth - 48;
+  const laid = PROFILE.toolkit.map(([step, name, tools]) => ({ name, step, tools: chips(ink, 0, 0, inner, tools) }));
+  const rows: number[] = [];
+  laid.forEach((card, i) => {
+    const row = Math.floor(i / columns);
+    rows[row] = Math.max(rows[row] ?? 0, card.tools.height + 88);
+  });
+  const rowTop = (row: number): number => origin.y + rows.slice(0, row).reduce((sum, h) => sum + h + gutter, 0);
+  const cards = laid.flatMap((card, i) => {
+    const row = Math.floor(i / columns);
+    const x = origin.x + (i % columns) * (cardWidth + gutter);
+    const y = rowTop(row);
+    const height = rows[row] ?? 0;
+    return [
+      `<rect x="${x}" y="${y}" width="${cardWidth}" height="${height}" rx="10" fill="${ink.bg}" fill-opacity="0.7" stroke="${ink.frame}"/>`,
+      text({ fill: ink.accent, size: ink.label, text: card.step, tracking: 1, weight: 700, x: x + 24, y: y + 38 }),
+      text({ fill: ink.muted, size: ink.label, text: card.name, tracking: 1.5, x: x + 24 + ink.label * 2.4, y: y + 38 }),
+      chips(ink, x + 24, y + 62, inner, PROFILE.toolkit[i]?.[2] ?? []).markup,
+    ];
+  });
+  const exploringTop = rowTop(rows.length) + 8;
+  const exploringLabelWidth = wide ? 176 : 0;
+  const exploring = chips(
+    ink,
+    origin.x + exploringLabelWidth,
+    wide ? exploringTop : exploringTop + 36,
+    (wide ? 1128 : 568) - exploringLabelWidth,
+    PROFILE.exploring,
+    true,
+  );
+  const height = (wide ? exploringTop : exploringTop + 36) + exploring.height + 64;
+  const label = {
+    desc: `${PROFILE.toolkit.map(([, name, tools]) => `${name.toLowerCase()}: ${tools.join(", ")}`).join(". ")}. Now exploring: ${PROFILE.exploring.join(", ")}. Always open to new frameworks, workflows, agentic tools and developer-experience utilities.`,
+    title: "Toolkit",
+  };
+  return sheet(ink, { height, width: wide ? 1280 : 720 }, { cx: wide ? 640 : 360, cy: height / 2, r: 560 }, label, [
+    frame(ink, {
+      height: height - 72,
+      note: wide ? "ALWAYS TRYING SOMETHING NEW" : undefined,
+      title: "TOOLKIT",
+      width: wide ? 1200 : 656,
+      x: wide ? 40 : 32,
+      y: 40,
+    }),
+    ...cards,
+    eyebrow(ink, origin.x, (wide ? exploringTop : exploringTop + 4) + ink.label + 5, "NOW EXPLORING", ink.small),
+    exploring.markup,
+  ]);
+}
+
 /** Every committed image, keyed by its path in the repository. */
 export function art(): Record<string, string> {
   const files: Record<string, string> = {};
-  const pieces = { charter: charterSvg, hero: heroSvg, life: lifeSvg, principles: principlesSvg };
+  const pieces = {
+    charter: charterSvg,
+    hero: heroSvg,
+    life: lifeSvg,
+    principles: principlesSvg,
+    toolkit: toolkitSvg,
+  };
   for (const [name, render] of Object.entries(pieces)) {
     for (const mode of ["light", "dark"] as const) {
       files[`assets/${name}-${mode}.svg`] = render(mode, "wide");
