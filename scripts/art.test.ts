@@ -1,5 +1,6 @@
 import { describe, expect, test } from "bun:test";
-import { art, escapeXml } from "./art";
+import { art, contrast, escapeXml, PROFILE, TOOL_ICONS } from "./art";
+import { ICONS } from "./icons";
 
 describe("art", () => {
   test("every committed image matches the generator", async () => {
@@ -36,4 +37,15 @@ describe("art", () => {
 
 test("escapeXml escapes markup characters", () => {
   expect(escapeXml(`a & <b> "c"`)).toBe("a &amp; &lt;b&gt; &quot;c&quot;");
+});
+
+test("contrast follows WCAG: black on white is 21:1", () => {
+  expect(contrast("#000000", "#ffffff")).toBeCloseTo(21, 1);
+  expect(contrast("#ffffff", "#ffffff")).toBeCloseTo(1, 5);
+});
+
+test("every mapped tool has an icon, and every toolkit entry is either mapped or a monogram", () => {
+  for (const slug of Object.values(TOOL_ICONS)) expect(ICONS[slug]).toBeDefined();
+  const tools = [...PROFILE.toolkit.flatMap(([, , list]) => list), ...PROFILE.exploring];
+  for (const tool of Object.keys(TOOL_ICONS)) expect(tools).toContain(tool);
 });

@@ -9,6 +9,8 @@
  * @module
  */
 
+import { ICONS } from "./icons";
+
 /** Colour mode of a GitHub page. */
 export type Mode = "light" | "dark";
 /** Layout: `wide` for desktop, `narrow` for screens up to 600 px. */
@@ -41,7 +43,7 @@ export const PROFILE = {
   principlesSource: "flow · feedback · cognitive load: DevEx (ACM Queue, 2023)",
   toolkit: [
     ["01", "LANGUAGES & RUNTIMES", ["TypeScript", "Go", "Python", "Bun", "Node.js"]],
-    ["02", "FRONTEND", ["Next.js", "React", "Astro", "Tailwind CSS", "shadcn/ui"]],
+    ["02", "FRONTEND", ["Next.js", "React", "TanStack Start", "Astro", "Tailwind CSS", "shadcn/ui"]],
     ["03", "PLATFORM & DATA", ["Cloudflare Workers", "D1", "Hono", "Zod", "Valibot", "Vercel"]],
     ["04", "DX & QUALITY", ["mise", "hk", "oxlint", "oxfmt", "Vitest", "Playwright"]],
     ["05", "CI/CD & RELEASE", ["GitHub Actions", "Renovate", "semantic-release", "zizmor"]],
@@ -71,6 +73,38 @@ export const PROFILE = {
     rotation: "travel · books · cinema · games · good food · Slytherin",
   },
 } as const;
+
+/** Simple Icons slug for each tool that has one; the rest get a monogram. */
+export const TOOL_ICONS: Readonly<Record<string, string>> = {
+  "AGENTS.md": "markdown",
+  Astro: "astro",
+  Bun: "bun",
+  "Claude Code": "claude",
+  "Cloudflare Workers": "cloudflareworkers",
+  D1: "cloudflare",
+  "GitHub Actions": "githubactions",
+  Go: "go",
+  Hono: "hono",
+  MCP: "modelcontextprotocol",
+  "MCP servers": "modelcontextprotocol",
+  "Next.js": "nextdotjs",
+  "Node.js": "nodedotjs",
+  oxc: "oxc",
+  oxfmt: "oxc",
+  oxlint: "oxc",
+  Python: "python",
+  React: "react",
+  Renovate: "renovate",
+  "TanStack Start": "tanstack",
+  "Tailwind CSS": "tailwindcss",
+  TypeScript: "typescript",
+  "TypeScript 7": "typescript",
+  Vercel: "vercel",
+  Vitest: "vitest",
+  Zod: "zod",
+  "semantic-release": "semanticrelease",
+  "shadcn/ui": "shadcnui",
+};
 
 /** Colours of one mode, matched to GitHub's light and dark Primer palettes. */
 interface Ink {
@@ -158,6 +192,8 @@ interface Text {
   readonly weight?: number;
   readonly anchor?: "start" | "middle" | "end";
   readonly tracking?: number;
+  /** Pins the rendered width, like the badge, so text fits whatever font the viewer has. */
+  readonly length?: number;
 }
 
 /** Renders one `<text>` element; the text is escaped. */
@@ -170,6 +206,7 @@ function text(t: Text): string {
     t.weight === undefined ? "" : `font-weight="${t.weight}"`,
     t.anchor === undefined || t.anchor === "start" ? "" : `text-anchor="${t.anchor}"`,
     t.tracking === undefined ? "" : `letter-spacing="${t.tracking}"`,
+    t.length === undefined ? "" : `textLength="${t.length}" lengthAdjust="spacing"`,
     `fill="${t.fill}"`,
   ].filter(Boolean);
   return `<text ${attrs.join(" ")}>${escapeXml(t.text)}</text>`;
@@ -526,18 +563,74 @@ export function lifeSvg(mode: Mode, width: Width): string {
   ]);
 }
 
-/** One chip: an outlined pill with mono text; `hot` fills it with the accent tint. */
+/** Relative luminance of a `#rrggbb` colour (WCAG 2). */
+function luminance(hex: string): number {
+  const [r = 0, g = 0, b = 0] = [1, 3, 5].map((i) => {
+    const c = Number.parseInt(hex.slice(i, i + 2), 16) / 255;
+    return c <= 0.040_45 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4;
+  });
+  return 0.2126 * r + 0.7152 * g + 0.0722 * b;
+}
+
+/** WCAG contrast ratio between two `#rrggbb` colours. */
+export function contrast(a: string, b: string): number {
+  const [hi, lo] = [luminance(a), luminance(b)].toSorted((x, y) => y - x);
+  return ((hi ?? 0) + 0.05) / ((lo ?? 0) + 0.05);
+}
+
+/** Icon size inside a chip. */
+const iconSize = (ink: Style): number => ink.label + 3;
+
+/** Advance widths in 1/1000 em (Arial Bold metrics, as the view-counter badge uses). */
+const ADVANCE: Readonly<Record<string, number>> = {
+  ...Object.fromEntries([..."abcdefghijklmnopqrstuvwxyz"].map((c, i) => [c, [556, 611, 556, 611, 556, 333, 611, 611, 278, 278, 556, 278, 889, 611, 611, 611, 611, 389, 556, 333, 611, 556, 778, 556, 556, 500][i] ?? 611])),
+  ...Object.fromEntries([..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"].map((c, i) => [c, [722, 722, 722, 722, 667, 611, 778, 722, 278, 556, 722, 611, 833, 722, 778, 667, 778, 722, 667, 611, 722, 667, 944, 667, 667, 611][i] ?? 722])),
+  ...Object.fromEntries([..."0123456789"].map((c) => [c, 556])),
+  " ": 278,
+  "&": 722,
+  "-": 333,
+  ".": 278,
+  "/": 278,
+};
+
+/** Width of a chip name in the badge's bold sans, from real advances; `textLength` pins it. */
+const nameWidth = (ink: Style, label: string): number =>
+  round(([...label].reduce((sum, c) => sum + (ADVANCE[c] ?? 611), 0) / 1000) * ink.label);
+
+/**
+ * The tool's icon: the Simple Icons brand mark in its colour, or the text colour when the brand
+ * colour would vanish on this background (graphics need 3:1); a monogram when there is no icon.
+ */
+function toolIcon(ink: Style, x: number, cy: number, label: string): string {
+  const size = iconSize(ink);
+  const icon = ICONS[TOOL_ICONS[label] ?? ""];
+  if (icon === undefined) {
+    const r = size / 2;
+    return [
+      `<circle cx="${round(x + r)}" cy="${cy}" r="${r}" fill="${ink.frame}"/>`,
+      text({ anchor: "middle", fill: ink.ink, font: "sans", size: round(size * 0.58), text: (label[0] ?? "").toUpperCase(), weight: 700, x: round(x + r), y: round(cy + size * 0.2) }),
+    ].join("");
+  }
+  const fill = contrast(icon.hex, ink.bg) >= 3 ? icon.hex : ink.ink;
+  return `<path transform="translate(${x} ${round(cy - size / 2)}) scale(${round(size / 24 * 1000) / 1000})" fill="${fill}" d="${icon.path}"/>`;
+}
+
+/** One chip, styled like the view-counter badge: corners curved with the icon's own radius, the
+ * icon, then the name in semibold sans with its width pinned; `hot` tints it with the accent. */
 function chip(ink: Style, x: number, y: number, label: string, hot = false): string {
   const height = ink.label + 17;
   const width = chipWidth(ink, label);
+  const textStart = x + 10 + iconSize(ink) + 7;
   return [
-    `<rect x="${x}" y="${y}" width="${width}" height="${height}" rx="${height / 2}" fill="${hot ? ink.accent : ink.bg}" fill-opacity="${hot ? 0.12 : 0.7}" stroke="${hot ? ink.accent : ink.frame}"/>`,
-    text({ anchor: "middle", fill: hot ? ink.accent : ink.ink, size: ink.label, text: label, x: round(x + width / 2), y: round(y + height / 2 + ink.label * 0.35) }),
+    `<rect x="${x}" y="${y}" width="${width}" height="${height}" rx="${iconSize(ink) / 2}" fill="${hot ? ink.accent : ink.bg}" fill-opacity="${hot ? 0.12 : 0.7}" stroke="${hot ? ink.accent : ink.frame}"/>`,
+    toolIcon(ink, x + 10, y + height / 2, label),
+    text({ fill: hot ? ink.accent : ink.ink, font: "sans", length: nameWidth(ink, label), size: ink.label, text: label, weight: 600, x: textStart, y: round(y + height / 2 + ink.label * 0.35) }),
   ].join("");
 }
 
-/** Width of a chip, from monospace advances plus padding. */
-const chipWidth = (ink: Style, label: string): number => round(label.length * ink.label * MONO_ADVANCE + 24);
+/** Width of a chip: padding, icon, gap, monospace text, padding. */
+const chipWidth = (ink: Style, label: string): number =>
+  round(10 + iconSize(ink) + 7 + nameWidth(ink, label) + 12);
 
 /** Lays chips left to right, wrapping at `width`; returns the markup and the height used. */
 function chips(ink: Style, x: number, y: number, width: number, labels: readonly string[], hot = false) {
