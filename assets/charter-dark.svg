@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+<title id="title">Charter: AI-agent readiness, scored</title>
+<desc id="desc">Charter: Scores any repository 0–100 on how safely an AI coding agent can work in it. offline · deterministic · no llm in the loop. A sample report scores agent context 74, mcp safety 54, reproducibility 83, ci posture 65, governance 44.</desc>
+<defs>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1f242c"/></pattern>
+<radialGradient id="glow"><stop offset="0" stop-color="#58a6ff" stop-opacity="0.16"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1280" height="520" fill="#0d1117"/>
+<rect width="1280" height="520" fill="url(#dots)"/>
+<circle cx="960" cy="260" r="440" fill="url(#glow)"/>
+<path d="M40 40H76M203.6 40H927.6M1204 40H1240V480H40V40" fill="none" stroke="#30363d" stroke-dasharray="6 6"/><path d="M34 40h12M40 34v12" stroke="#6e7681" stroke-width="1.5"/><path d="M1234 40h12M1240 34v12" stroke="#6e7681" stroke-width="1.5"/><path d="M34 480h12M40 474v12" stroke="#6e7681" stroke-width="1.5"/><path d="M1234 480h12M1240 474v12" stroke="#6e7681" stroke-width="1.5"/><text x="84" y="45" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.5" fill="#9198a1">[ FEATURED ]</text><text x="1196" y="45" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" text-anchor="end" letter-spacing="1.5" fill="#6e7681">[ OPEN SOURCE · APACHE-2.0 ]</text>
+<circle cx="96" cy="127" r="4" fill="#58a6ff"/><text x="110" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2" fill="#58a6ff">AI-AGENT READINESS, SCORED</text>
+<text x="86" y="228" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="84" font-weight="800" letter-spacing="-3" fill="#f0f6fc">Charter</text>
+<text x="92" y="280" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#9198a1">Scores any repository 0–100 on how</text>
+<text x="92" y="308" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#9198a1">safely an AI coding agent can work in it.</text>
+<path d="M92 344h540" stroke="#30363d"/>
+<text x="92" y="380" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.2" fill="#f0f6fc">OFFLINE · DETERMINISTIC · NO LLM IN THE LOOP</text>
+<text x="92" y="408" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.2" fill="#6e7681">GO · CLI · GITHUB ACTION · SARIF</text>
+<path d="M696 96H732M906.1 96H1192V440H696V96" fill="none" stroke="#30363d" stroke-dasharray="6 6"/><path d="M690 96h12M696 90v12" stroke="#6e7681" stroke-width="1.5"/><path d="M1186 96h12M1192 90v12" stroke="#6e7681" stroke-width="1.5"/><path d="M690 440h12M696 434v12" stroke="#6e7681" stroke-width="1.5"/><path d="M1186 440h12M1192 434v12" stroke="#6e7681" stroke-width="1.5"/><text x="740" y="101" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.5" fill="#9198a1">[ SAMPLE REPORT ]</text>
+<text x="736" y="178" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="-1" fill="#f0f6fc">64</text>
+<text x="798" y="174" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#9198a1">/ 100 overall</text>
+<text x="736" y="232" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="0.5" fill="#9198a1">agent context</text>
+<rect x="926" y="222" width="170" height="12" rx="6" fill="#21262d"/>
+<rect x="926" y="222" width="125.8" height="12" rx="6" fill="#58a6ff"/>
+<text x="1152" y="233" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" text-anchor="end" fill="#f0f6fc">74</text>
+<text x="736" y="280" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="0.5" fill="#9198a1">mcp safety</text>
+<rect x="926" y="270" width="170" height="12" rx="6" fill="#21262d"/>
+<rect x="926" y="270" width="91.8" height="12" rx="6" fill="#58a6ff"/>
+<text x="1152" y="281" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" text-anchor="end" fill="#f0f6fc">54</text>
+<text x="736" y="328" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="0.5" fill="#9198a1">reproducibility</text>
+<rect x="926" y="318" width="170" height="12" rx="6" fill="#21262d"/>
+<rect x="926" y="318" width="141.1" height="12" rx="6" fill="#58a6ff"/>
+<text x="1152" y="329" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" text-anchor="end" fill="#f0f6fc">83</text>
+<text x="736" y="376" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="0.5" fill="#9198a1">ci posture</text>
+<rect x="926" y="366" width="170" height="12" rx="6" fill="#21262d"/>
+<rect x="926" y="366" width="110.5" height="12" rx="6" fill="#58a6ff"/>
+<text x="1152" y="377" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" text-anchor="end" fill="#f0f6fc">65</text>
+<text x="736" y="424" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="0.5" fill="#9198a1">governance</text>
+<rect x="926" y="414" width="170" height="12" rx="6" fill="#21262d"/>
+<rect x="926" y="414" width="74.8" height="12" rx="6" fill="#58a6ff"/>
+<text x="1152" y="425" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" text-anchor="end" fill="#f0f6fc">44</text>
+</svg>

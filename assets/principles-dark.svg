@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">How I work</title>
+<desc id="desc">Flow: Protect deep work: fewer handoffs and waits. Feedback: Fast loops everywhere: build, test, review, ship. Focus: Less cognitive load: paved roads, clear docs. The long game: Platforms are never done: play the infinite game.</desc>
+<defs>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1f242c"/></pattern>
+<radialGradient id="glow"><stop offset="0" stop-color="#58a6ff" stop-opacity="0.16"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1280" height="400" fill="#0d1117"/>
+<rect width="1280" height="400" fill="url(#dots)"/>
+<circle cx="640" cy="200" r="520" fill="url(#glow)"/>
+<path d="M40 40H76M222.2 40H918.3M1204 40H1240V368H40V40" fill="none" stroke="#30363d" stroke-dasharray="6 6"/><path d="M34 40h12M40 34v12" stroke="#6e7681" stroke-width="1.5"/><path d="M1234 40h12M1240 34v12" stroke="#6e7681" stroke-width="1.5"/><path d="M34 368h12M40 362v12" stroke="#6e7681" stroke-width="1.5"/><path d="M1234 368h12M1240 362v12" stroke="#6e7681" stroke-width="1.5"/><text x="84" y="45" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.5" fill="#9198a1">[ HOW I WORK ]</text><text x="1196" y="45" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" text-anchor="end" letter-spacing="1.5" fill="#6e7681">[ DEVEX · THE INFINITE GAME ]</text>
+<rect x="76" y="104" width="267" height="216" rx="10" fill="#0d1117" fill-opacity="0.7" stroke="#30363d"/>
+<text x="100" y="144" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" letter-spacing="1" fill="#58a6ff">01</text>
+<text x="100" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="-0.5" fill="#f0f6fc">Flow</text>
+<text x="100" y="244" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#9198a1">Protect deep work:</text>
+<text x="100" y="268" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#9198a1">fewer handoffs and waits.</text>
+<rect x="363" y="104" width="267" height="216" rx="10" fill="#0d1117" fill-opacity="0.7" stroke="#30363d"/>
+<text x="387" y="144" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" letter-spacing="1" fill="#58a6ff">02</text>
+<text x="387" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="-0.5" fill="#f0f6fc">Feedback</text>
+<text x="387" y="244" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#9198a1">Fast loops everywhere:</text>
+<text x="387" y="268" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#9198a1">build, test, review, ship.</text>
+<rect x="650" y="104" width="267" height="216" rx="10" fill="#0d1117" fill-opacity="0.7" stroke="#30363d"/>
+<text x="674" y="144" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" letter-spacing="1" fill="#58a6ff">03</text>
+<text x="674" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="-0.5" fill="#f0f6fc">Focus</text>
+<text x="674" y="244" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#9198a1">Less cognitive load:</text>
+<text x="674" y="268" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#9198a1">paved roads, clear docs.</text>
+<rect x="937" y="104" width="267" height="216" rx="10" fill="#0d1117" fill-opacity="0.7" stroke="#30363d"/>
+<text x="961" y="144" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" letter-spacing="1" fill="#58a6ff">04</text>
+<text x="961" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="-0.5" fill="#f0f6fc">The long game</text>
+<text x="961" y="244" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#9198a1">Platforms are never done:</text>
+<text x="961" y="268" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#9198a1">play the infinite game.</text>
+<text x="76" y="350" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#6e7681">flow · feedback · cognitive load: DevEx (ACM Queue, 2023)</text>
+</svg>

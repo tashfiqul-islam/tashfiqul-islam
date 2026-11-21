@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-labelledby="title desc">
+<title id="title">Tashfiqul Islam: I help engineers do their best work.</title>
+<desc id="desc">technical product manager, Engineering Enablement &amp; Platform Modernization. The bridge between technology and people. Focus: developer experience, platform modernization and engineering enablement. 7+ years in technology, 5+ in product.</desc>
+<defs>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#dfe4ea"/></pattern>
+<radialGradient id="glow"><stop offset="0" stop-color="#0969da" stop-opacity="0.1"/><stop offset="1" stop-color="#0969da" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1280" height="560" fill="#ffffff"/>
+<rect width="1280" height="560" fill="url(#dots)"/>
+<circle cx="980" cy="280" r="460" fill="url(#glow)"/>
+<path d="M40 40H76M268.7 40H1029.9M1204 40H1240V520H40V40" fill="none" stroke="#d0d7de" stroke-dasharray="6 6"/><path d="M34 40h12M40 34v12" stroke="#8c959f" stroke-width="1.5"/><path d="M1234 40h12M1240 34v12" stroke="#8c959f" stroke-width="1.5"/><path d="M34 520h12M40 514v12" stroke="#8c959f" stroke-width="1.5"/><path d="M1234 520h12M1240 514v12" stroke="#8c959f" stroke-width="1.5"/><text x="84" y="45" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.5" fill="#59636e">[ TASHFIQUL ISLAM ]</text><text x="1196" y="45" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" text-anchor="end" letter-spacing="1.5" fill="#8c959f">[ DHAKA · UTC+6 ]</text>
+<circle cx="96" cy="127" r="4" fill="#0969da"/><text x="110" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2" fill="#0969da">TECHNICAL PRODUCT MANAGER</text>
+<text x="88" y="210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="60" font-weight="800" letter-spacing="-2" fill="#1f2328">I help engineers</text>
+<text x="88" y="280" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="60" font-weight="800" letter-spacing="-2" fill="#0969da">do their best work.</text>
+<text x="92" y="332" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#1f2328">Engineering Enablement &amp; Platform Modernization</text>
+<text x="92" y="362" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#59636e">The bridge between technology and people.</text>
+<path d="M92 396h560" stroke="#d0d7de"/>
+<text x="92" y="446" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.5" fill="#1f2328">7+</text>
+<text x="92" y="470" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="0.5" fill="#59636e">years in technology</text>
+<text x="280" y="446" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.5" fill="#1f2328">5+</text>
+<text x="280" y="470" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="0.5" fill="#59636e">years in product</text>
+<text x="468" y="446" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.5" fill="#1f2328">∞</text>
+<text x="468" y="470" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="0.5" fill="#59636e">the long game</text>
+<path d="M768 96H804M903.7 96H1188V464H768V96" fill="none" stroke="#d0d7de" stroke-dasharray="6 6"/><path d="M762 96h12M768 90v12" stroke="#8c959f" stroke-width="1.5"/><path d="M1182 96h12M1188 90v12" stroke="#8c959f" stroke-width="1.5"/><path d="M762 464h12M768 458v12" stroke="#8c959f" stroke-width="1.5"/><path d="M1182 464h12M1188 458v12" stroke="#8c959f" stroke-width="1.5"/><text x="812" y="101" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.5" fill="#59636e">[ FOCUS ]</text>
+<text x="808" y="168" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" letter-spacing="1" fill="#0969da">01</text>
+<text x="848" y="169" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1f2328">Developer experience</text>
+<text x="848" y="196" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="0.5" fill="#59636e">flow · feedback · focus</text>
+<path d="M808 230h340" stroke="#d0d7de"/>
+<text x="808" y="280" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" letter-spacing="1" fill="#0969da">02</text>
+<text x="848" y="281" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1f2328">Platform modernization</text>
+<text x="848" y="308" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="0.5" fill="#59636e">current stack · clear design</text>
+<path d="M808 342h340" stroke="#d0d7de"/>
+<text x="808" y="392" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" letter-spacing="1" fill="#0969da">03</text>
+<text x="848" y="393" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1f2328">Engineering enablement</text>
+<text x="848" y="420" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="0.5" fill="#59636e">paved roads · golden paths</text>
+
+</svg>
