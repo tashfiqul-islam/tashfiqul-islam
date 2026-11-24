@@ -154,16 +154,16 @@ Current conditions, written into this README by [Profile Weather View](https://g
   </tr>
   <tr>
     <!-- Hourly Weather Update -->
-        <td align="center">Clear Sky <img width="15" src="https://raw.githubusercontent.com/basmilius/weather-icons/dev/production/fill/svg/clear-day.svg" alt="Clear Sky icon"></td>
-        <td align="center">26°C</td>
+        <td align="center">Clear Sky <img width="15" src="https://raw.githubusercontent.com/basmilius/weather-icons/dev/production/fill/svg/clear-night.svg" alt="Clear Sky icon"></td>
+        <td align="center">17°C</td>
         <td align="center">06:19</td>
         <td align="center">17:10</td>
-        <td align="center">62%</td>
+        <td align="center">83%</td>
     <!-- End of Hourly Weather Update -->
   </tr>
 </table>
 
-<p align="center"><sub><em>Last refresh: Tuesday, November 24, 2026 at 11:23:44 (UTC+6)</em></sub></p>
+<p align="center"><sub><em>Last refresh: Wednesday, November 25, 2026 at 05:08:46 (UTC+6)</em></sub></p>
 <!-- End of Dhaka's weather table -->
 
 <br>
